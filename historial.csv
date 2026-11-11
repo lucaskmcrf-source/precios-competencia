@@ -219,10 +219,6 @@ Fecha,ID modelo,Marca,Modelo,Versión,Precio lista,Bono marca,Bono financiamient
 2026-11-10,GEELY-OKAVANGO,Geely,Okavango,Signature,26690000,1000000,2000000,23690000,https://www.geely.cl/modelos/okavango/
 2026-11-10,KGM-REXTON,KGM,Rexton,LX 2.2TD 8AT 2WD 2AB,32990000,3500000,1000000,28490000,https://www.kgmauto.cl/modelos/rexton/
 2026-11-10,KGM-REXTON,KGM,Rexton,GLX 2.2TD 8AT 2WD 6AB,36190000,3700000,1000000,31490000,https://www.kgmauto.cl/modelos/rexton/
-2026-11-11,FORD-TERRITORY,Ford,Territory,Trend 1.5 4x2,21290000,0,3300000,17990000,https://www.ford.cl/suvs-crossovers/territory/
-2026-11-11,FORD-TERRITORY,Ford,Territory,Titanium 1.5L 4x2,25690000,0,4700000,20990000,https://www.ford.cl/suvs-crossovers/territory/
-2026-11-11,FORD-TERRITORY-HEV,Ford,Territory Híbrida,Titanium Híbrida,30590000,0,4600000,25990000,https://www.ford.cl/suvs-crossovers/territory/
-2026-11-11,FORD-TERRITORY-HEV,Ford,Territory Híbrida,Platinum Híbrida,32190000,0,4600000,27590000,https://www.ford.cl/suvs-crossovers/territory/
 2026-11-11,MAZDA-CX-5,Mazda,CX-5,CORE 2.0 2WD 6AT,24990000,1400000,1300000,22290000,https://www.mazda.cl/vehiculo/mazda-cx-5/
 2026-11-11,MAZDA-CX-5,Mazda,CX-5,CORE 2.0 AWD 6AT,27490000,800000,1500000,25190000,https://www.mazda.cl/vehiculo/mazda-cx-5/
 2026-11-11,MAZDA-CX-30,Mazda,CX-30,ENTRY 2.0 2WD AT 7G,22990000,1000000,1000000,20990000,https://www.mazda.cl/vehiculo/mazda-cx-30/
@@ -232,6 +228,7 @@ Fecha,ID modelo,Marca,Modelo,Versión,Precio lista,Bono marca,Bono financiamient
 2026-11-11,DONGFENG-L7-PHEV,Dongfeng,L7 PHEV,1.5T PHEV ELITE,,,,24990000,https://www.pompeyo.cl/producto/l7/
 2026-11-11,DONGFENG-VIGO,Dongfeng,Vigo,EV 45.0KWH SR FULL,20990000,,,19490000,https://www.pompeyo.cl/producto/vigo/
 2026-11-11,DONGFENG-VIGO,Dongfeng,Vigo,EV 51.9KWH LR ELITE,,,,21490000,https://www.pompeyo.cl/producto/vigo/
+2026-11-11,VOLVO-EX30,Volvo,EX30,E40 CORE,35900000,0,6000000,29900000,https://www.volvohomestore.cl/cl/cars/ex30
 2026-11-11,JETOUR-X50,Jetour,X50,1.5L MT LUX,11490000,1700000,1000000,8790000,https://jetourchile.cl/w/x50
 2026-11-11,JETOUR-X50,Jetour,X50,1.5T 6DCT TURBO LUX,14490000,1500000,1000000,11990000,https://jetourchile.cl/w/x50
 2026-11-11,JETOUR-X70,Jetour,X70,1.5L 6MT TURBO FL,15990000,2500000,1000000,12490000,https://jetourchile.cl/w/x70
@@ -417,3 +414,13 @@ Fecha,ID modelo,Marca,Modelo,Versión,Precio lista,Bono marca,Bono financiamient
 2026-11-11,KGM-REXTON,KGM,Rexton,GLX 2.2TD 8AT 2WD 6AB,36190000,3700000,1000000,31490000,https://www.kgmauto.cl/modelos/rexton/
 2026-11-11,GAC-GS8,GAC,GS8,2.0 AT 2WD,25990000,0,3000000,22990000,https://www.gacautos.cl/cotizar/?modelo=gac-gs8
 2026-11-11,GAC-GS8,GAC,GS8,GX 2.0 AT 4WD,32990000,0,3000000,29990000,https://www.gacautos.cl/cotizar/?modelo=gac-gs8
+2026-11-11,JEEP-AVENGER,Jeep,Avenger,Altitude 1.2T H DDCT6 FWD,24990000,5400000,0,19590000,https://www.jeepcotizador.com/modelos/avenger/cotiza.html
+2026-11-11,JEEP-AVENGER,Jeep,Avenger,Summit 1.2T H DDT6 FWD,27490000,5400000,0,22090000,https://www.jeepcotizador.com/modelos/avenger/cotiza.html
+2026-11-11,JEEP-AVENGER-BEV,Jeep,Avenger BEV,Summit BEV,31590000,5600000,0,25990000,https://www.jeepcotizador.com/modelos/avenger/cotiza.html#summit-bev
+2026-11-11,EXEED-LX,EXEED,LX,1.6T DCT ADVANCED,19990000,1500000,1500000,16990000,https://exeedbornformore.cl/modelos/new-exeed-lx/
+2026-11-11,EXEED-LX,EXEED,LX,1.6T DCT UNLIMITED,20990000,1000000,1500000,18490000,https://exeedbornformore.cl/modelos/new-exeed-lx/
+2026-11-11,EXEED-LX,EXEED,LX,1.6T DCT UNLIMITED AWD,23990000,500000,1500000,21990000,https://exeedbornformore.cl/modelos/new-exeed-lx/
+2026-11-11,FORD-TERRITORY,Ford,Territory,Trend 1.5 4x2,21290000,0,3300000,17990000,https://www.ford.cl/suvs-crossovers/territory/
+2026-11-11,FORD-TERRITORY,Ford,Territory,Titanium 1.5L 4x2,25690000,0,4700000,20990000,https://www.ford.cl/suvs-crossovers/territory/
+2026-11-11,FORD-TERRITORY-HEV,Ford,Territory Híbrida,Titanium Híbrida,30590000,0,4600000,25990000,https://www.ford.cl/suvs-crossovers/territory/
+2026-11-11,FORD-TERRITORY-HEV,Ford,Territory Híbrida,Platinum Híbrida,32190000,0,4600000,27590000,https://www.ford.cl/suvs-crossovers/territory/
