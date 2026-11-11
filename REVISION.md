@@ -6,6 +6,13 @@ Revisión diaria de precios publicados de OMODA | JAECOO y su competencia. Alime
 
 PASO 0: trabaja en el clon local /home/claude/precios-competencia (si no existe, usa add_repo con owner "lucaskmcrf-source", repo "precios-competencia", access "push" y clónalo ahí). Haz git pull antes de empezar.
 
+## REGLA DE VERIFICACIÓN (obligatoria, agregada el 11-11-2026)
+La herramienta WebFetch a veces INVENTA o mezcla montos (el 11-11 entregó precios de Jetour, Chevrolet, Soueast y BYD que no estaban en las páginas; incluso con montos que cuadraban aritméticamente). Por eso:
+1. En cada WebFetch pide copiar TEXTUALMENTE los montos con su etiqueta y versión (no pedir tablas resumidas ni cálculos).
+2. Compara cada versión con la fila más reciente del historial. Si NADA cambió, escribe la fila con los valores de siempre.
+3. Si ALGO cambió (precio lista, bonos o final, o versiones nuevas/retiradas), vuelve a leer esa página DOS veces más con prompts distintos (p. ej. uno pidiendo solo esa versión). Solo registra el cambio si las tres lecturas coinciden exactamente. Si no coinciden, escribe los valores anteriores y pon en el resumen "⚠️ <modelo>: posible cambio sin confirmar (lecturas distintas); revisar a mano".
+4. Nunca reportes como cambio algo que no pasó esta verificación.
+
 FUENTES (una página por modelo; revisa TODAS):
 1. Jetour (jetourchile.cl, mismo formato en todos sus modelos) — sección "Versiones": cada versión trae "A partir de" (precio final), "Precio lista", "Bono Marca", "Bono Financiamiento". Si un bono aparece como "-" o sin monto, usa 0. Nombre de versión sin el asterisco final. La página repite las versiones (lista + carrusel): guarda cada una una sola vez. Modelos:
    1a. ID modelo "JETOUR-DASHING" · Marca "Jetour" · Modelo "Dashing" · URL https://jetourchile.cl/w/dashing
