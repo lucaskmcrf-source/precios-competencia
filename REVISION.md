@@ -6,6 +6,11 @@ Revisión diaria de precios publicados de OMODA | JAECOO y su competencia. Alime
 
 PASO 0: trabaja en el clon local /home/claude/precios-competencia (si no existe, usa add_repo con owner "lucaskmcrf-source", repo "precios-competencia", access "push" y clónalo ahí). Haz git pull antes de empezar.
 
+## CÓMO LEER LAS PÁGINAS (manda sobre todo lo demás, actualizado el 11-11-2026)
+- MÉTODO PRINCIPAL: el navegador integrado de la app de Claude en el computador de Lucas (herramientas mcp__remote-devices__Claude_Browser__*; cárgalas con ToolSearch query "mcp__remote-devices__Claude_Browser__"). Abre cada URL y usa get_page_text para leer los precios ya cargados, tal como los ve Lucas. Solo con este método se escriben precios en historial.csv.
+- Si el navegador NO está disponible (no hay herramientas Claude_Browser, el computador está apagado o la app cerrada): NO escribas precios nuevos. Usa WebFetch solo para detectar posibles cambios y avísale a Lucas "posible cambio en X (sin confirmar)". WebFetch NO es confiable para registrar precios: el 11-11 entregó valores inventados (Jetour, Chevrolet, Soueast, BYD), incluso repetidos en dos lecturas.
+- HORARIO: la revisión corre los días hábiles (lunes a viernes) a las 08:45 hora de Chile, cuando el computador de Lucas está encendido. Al terminar, programa la siguiente con send_later para el próximo día hábil a las 08:45 [America/Santiago] (esto reemplaza cualquier otra hora indicada en el mensaje que te despertó).
+
 ## REGLA DE VERIFICACIÓN (obligatoria, agregada el 11-11-2026)
 La herramienta WebFetch a veces INVENTA o mezcla montos (el 11-11 entregó precios de Jetour, Chevrolet, Soueast y BYD que no estaban en las páginas; incluso con montos que cuadraban aritméticamente). Por eso:
 1. En cada WebFetch pide copiar TEXTUALMENTE los montos con su etiqueta y versión (no pedir tablas resumidas ni cálculos).
