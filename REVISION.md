@@ -11,6 +11,20 @@ PASO 0: trabaja en el clon local /home/claude/precios-competencia (si no existe,
 - Si el navegador NO está disponible (list_connected_browsers vacío o sin herramientas de navegador: Chrome cerrado o computador apagado): NO escribas precios nuevos. Usa WebFetch solo para detectar posibles cambios y avísale a Lucas "posible cambio en X (sin confirmar)". WebFetch NO es confiable para registrar precios: el 11-11 entregó valores inventados (Jetour, Chevrolet, Soueast, BYD), incluso repetidos en dos lecturas.
 - HORARIO: la revisión corre los días hábiles (lunes a viernes) a las 08:45 hora de Chile, cuando el computador de Lucas está encendido con Chrome abierto. Al terminar, programa la siguiente con send_later para el próximo día hábil a las 08:45 [America/Santiago] (esto reemplaza cualquier otra hora indicada en el mensaje que te despertó).
 
+## CÓMO SE LEYÓ CADA MARCA CON CHROME (11-11-2026, funcionó)
+Texto con TreeWalker de nodos de texto unidos con espacio (incluye contenido oculto), excluyendo script/style/noscript/header/footer/nav; luego buscar los montos "$" con 60-70 caracteres antes. Si la respuesta sale "[BLOCKED: Cookie/query string data]", excluye también los <a> y limpia caracteres raros.
+- Jetour: .swiper-slide con .model-title (textContent). OMODA/JAECOO, MG, Suzuki, Hyundai, Subaru, Deepal, BYD (astararetail), DFSK, Kaiyi, KGM, GAC: texto plano trae versión + montos.
+- Chevrolet (coseche): sección entre "Versiones disponibles" y "Todo lo que necesitas" SIN excluir header (el nombre de versión está en un header de la tarjeta). Lista = "Con todo medio de pago", final = "Desde".
+- Geely y Changan: tarjeta + texto legal "Válido para ... Precio lista corresponde a ... Precio con bono ... $X con cualquier medio de pago más $Y con financiamiento" (X = bono marca, Y = bono fin.). Okavango: usar "Exclusive" (NO "Exclusive (Negro)").
+- Toyota: términos, regex "Precio publicado de: $X corresponde a TOYOTA, modelo RAIZE, versión Raize ...". Chery: términos, "TIGGO ...: Valor $X ... bono marca ... bono con financiamiento ... precio sin bonos $L" (no restar Chery x Chery).
+- Soueast: grilla "Precio lista / Bono marca / Bono financiamiento / Precio final" con una columna por versión, en el orden del historial.
+- VW: tabla HTML (fila "Precio con bono directo" y "Precio bono Smart Credit"). Kia: tabla HTML. Honda: texto con columnas lista / bono / bono Autofin / final.
+- Haval (gwm.cl), Leapmotor, Peugeot, DFSK 600: hay que hacer clic en cada versión (elemento hoja con el nombre exacto) y leer el bloque "Versión ...". Dongfeng (pompeyo): <select> de variaciones + .single_variation.
+- Mitsubishi: "Desde" + "Bono Hasta" (lista = desde + bono; bonos en blanco).
+- Sin permiso en la extensión el 11-11 (Lucas debe permitirlos): ford.cl, jeepcotizador.com, exeedbornformore.cl, volvohomestore.cl. mazda.cl respondió "Error 403" (bloqueo del sitio).
+- Haval Jolion Pro 4X2 DELUXE AT: la página publica lista 21.890.000 − 3.700.000 − 1.300.000 pero final 16.590.000 (no cuadra en la propia página); se guarda tal cual y se avisa.
+- Revisa TODOS los modelos del historial (también los que antes eran manuales: Kia, Haval, Kaiyi, Leapmotor, Jeep, Peugeot, DFSK, Dongfeng, Volvo, EXEED, GAC, KGM, OMODA C5 SHS), usando la URL de la última fila de cada modelo.
+
 ## REGLA DE VERIFICACIÓN (obligatoria, agregada el 11-11-2026)
 La herramienta WebFetch a veces INVENTA o mezcla montos (el 11-11 entregó precios de Jetour, Chevrolet, Soueast y BYD que no estaban en las páginas; incluso con montos que cuadraban aritméticamente). Por eso:
 1. En cada WebFetch pide copiar TEXTUALMENTE los montos con su etiqueta y versión (no pedir tablas resumidas ni cálculos).
