@@ -228,6 +228,10 @@ Fecha,ID modelo,Marca,Modelo,Versión,Precio lista,Bono marca,Bono financiamient
 2026-11-11,MAZDA-CX-30,Mazda,CX-30,ENTRY 2.0 2WD AT 7G,22990000,1000000,1000000,20990000,https://www.mazda.cl/vehiculo/mazda-cx-30/
 2026-11-11,MAZDA-CX-30,Mazda,CX-30,CORE 2.0 2WD 6MT 7G,23390000,1100000,1000000,21290000,https://www.mazda.cl/vehiculo/mazda-cx-30/
 2026-11-11,MAZDA-CX-30,Mazda,CX-30,CORE 2.0 2WD 6AT 7G,24090000,1400000,1000000,21690000,https://www.mazda.cl/vehiculo/mazda-cx-30/
+2026-11-11,DONGFENG-L7-PHEV,Dongfeng,L7 PHEV,1.5T PHEV,23990000,,,21990000,https://www.pompeyo.cl/producto/l7/
+2026-11-11,DONGFENG-L7-PHEV,Dongfeng,L7 PHEV,1.5T PHEV ELITE,,,,24990000,https://www.pompeyo.cl/producto/l7/
+2026-11-11,DONGFENG-VIGO,Dongfeng,Vigo,EV 45.0KWH SR FULL,20990000,,,19490000,https://www.pompeyo.cl/producto/vigo/
+2026-11-11,DONGFENG-VIGO,Dongfeng,Vigo,EV 51.9KWH LR ELITE,,,,21490000,https://www.pompeyo.cl/producto/vigo/
 2026-11-11,JETOUR-X50,Jetour,X50,1.5L MT LUX,11490000,1700000,1000000,8790000,https://jetourchile.cl/w/x50
 2026-11-11,JETOUR-X50,Jetour,X50,1.5T 6DCT TURBO LUX,14490000,1500000,1000000,11990000,https://jetourchile.cl/w/x50
 2026-11-11,JETOUR-X70,Jetour,X70,1.5L 6MT TURBO FL,15990000,2500000,1000000,12490000,https://jetourchile.cl/w/x70
@@ -372,3 +376,44 @@ Fecha,ID modelo,Marca,Modelo,Versión,Precio lista,Bono marca,Bono financiamient
 2026-11-11,CHERY-TIGGO-7-PHEV,Chery,Tiggo 7 Pro Max PHEV,1.5T DHT PHEV,25990000,500000,3500000,21990000,https://chery.cl/legales/terminos-y-condiciones/
 2026-11-11,CHERY-TIGGO-8-GLX,Chery,Tiggo 8 Pro Max,DCT GLX,25490000,500000,4000000,20990000,https://chery.cl/legales/terminos-y-condiciones/
 2026-11-11,CHERY-TIGGO-9,Chery,Tiggo 9,2.0T AT GLX AWD,29990000,500000,2500000,26990000,https://chery.cl/legales/terminos-y-condiciones/
+2026-11-11,HAVAL-H6,Haval,H6,ELITE 2WD,23190000,3000000,1200000,18990000,https://www.gwm.cl/vehiculo/haval/nuevo-h6/
+2026-11-11,HAVAL-H6,Haval,H6,DELUXE 2WD,25290000,2300000,1200000,21790000,https://www.gwm.cl/vehiculo/haval/nuevo-h6/
+2026-11-11,HAVAL-H6,Haval,H6,DELUXE 4WD,26190000,2200000,1200000,22790000,https://www.gwm.cl/vehiculo/haval/nuevo-h6/
+2026-11-11,HAVAL-H6-HEV,Haval,H6 HEV,HÍBRIDA DELUXE 2WD,27490000,2000000,1200000,24290000,https://www.gwm.cl/vehiculo/haval/nuevo-h6/
+2026-11-11,HAVAL-H6-PHEV,Haval,H6 PHEV,PHEV DELUXE 2WD,31990000,2800000,1200000,27990000,https://www.gwm.cl/vehiculo/haval/nuevo-h6/
+2026-11-11,HAVAL-H6-PHEV,Haval,H6 PHEV,PHEV DELUXE 4WD,33990000,2800000,1200000,29990000,https://www.gwm.cl/vehiculo/haval/nuevo-h6/
+2026-11-11,HAVAL-JOLION,Haval,Jolion,4X2 ACTIVE MT,17890000,4000000,1300000,12590000,https://www.gwm.cl/vehiculo/haval/nuevo-jolion/
+2026-11-11,HAVAL-JOLION,Haval,Jolion,4X2 ELITE MT,18790000,3600000,1300000,13890000,https://www.gwm.cl/vehiculo/haval/nuevo-jolion/
+2026-11-11,HAVAL-JOLION,Haval,Jolion,4X2 ELITE AT,19790000,3600000,1300000,14890000,https://www.gwm.cl/vehiculo/haval/nuevo-jolion/
+2026-11-11,HAVAL-JOLION,Haval,Jolion,4X2 DELUXE AT,21090000,3600000,1300000,16190000,https://www.gwm.cl/vehiculo/haval/nuevo-jolion/
+2026-11-11,HAVAL-JOLION-PRO,Haval,Jolion Pro,4X2 ELITE AT,20590000,3300000,1300000,15990000,https://www.gwm.cl/vehiculo/haval/jolion-pro/
+2026-11-11,HAVAL-JOLION-PRO,Haval,Jolion Pro,4X2 DELUXE AT,21890000,3700000,1300000,16590000,https://www.gwm.cl/vehiculo/haval/jolion-pro/
+2026-11-11,HAVAL-JOLION-PRO-HEV,Haval,Jolion Pro HEV,HÍBRIDO 4X2 ELITE AT,26490000,4300000,1200000,20990000,https://www.gwm.cl/vehiculo/haval/jolion-pro/
+2026-11-11,HAVAL-JOLION-PRO-HEV,Haval,Jolion Pro HEV,HÍBRIDO 4X2 DELUXE AT,28490000,4100000,1200000,23190000,https://www.gwm.cl/vehiculo/haval/jolion-pro/
+2026-11-11,HAVAL-JOLION-HEV,Haval,Jolion HEV,2WD ELITE AT HÍBRIDO,24290000,3100000,1200000,19990000,https://www.gwm.cl/vehiculo/haval/jolion-hev/
+2026-11-11,HAVAL-JOLION-HEV,Haval,Jolion HEV,2WD DELUXE AT HÍBRIDO,26790000,3900000,1200000,21690000,https://www.gwm.cl/vehiculo/haval/jolion-hev/
+2026-11-11,KIA-SONET,Kia,Sonet,LX 1.5L 6MT,15990000,700000,1300000,13990000,https://www.kia.cl/promociones/kia-sonet.html
+2026-11-11,KIA-SONET,Kia,Sonet,LX 1.5L IVT,17490000,900000,1300000,15290000,https://www.kia.cl/promociones/kia-sonet.html
+2026-11-11,KIA-SONET,Kia,Sonet,EX 1.5L 6MT HIGH,16990000,400000,1300000,15290000,https://www.kia.cl/promociones/kia-sonet.html
+2026-11-11,KIA-SONET,Kia,Sonet,EX 1.5L IVT HIGH,18490000,700000,1300000,16490000,https://www.kia.cl/promociones/kia-sonet.html
+2026-11-11,KIA-SONET,Kia,Sonet,EX 1.5L 6MT L FULL,17990000,200000,1300000,16490000,https://www.kia.cl/promociones/kia-sonet.html
+2026-11-11,KIA-SONET,Kia,Sonet,EX 1.5L IVT L FULL,19490000,700000,1300000,17490000,https://www.kia.cl/promociones/kia-sonet.html
+2026-11-11,KIA-SPORTAGE,Kia,Sportage,LX 2.0L 6MT GSL,24990000,1500000,1500000,21990000,https://www.kia.cl/promociones/kia-sportage.html
+2026-11-11,KIA-SPORTAGE,Kia,Sportage,LX 2.0L 6AT GSL,26990000,1000000,1500000,24490000,https://www.kia.cl/promociones/kia-sportage.html
+2026-11-11,LEAPMOTOR-C10-REEV,Leapmotor,C10 REEV,REEV Design Ultra Híbrido AT,30990000,5000000,0,25990000,https://www.leapmotorchile.cl/modelos/c10/cotiza.html
+2026-11-11,LEAPMOTOR-C10-BEV,Leapmotor,C10 BEV,BEV Design Eléctrico AT,29490000,2500000,0,26990000,https://www.leapmotorchile.cl/modelos/c10/cotiza.html#electrico
+2026-11-11,LEAPMOTOR-B10,Leapmotor,B10,BEV Life Eléctrico AT,24990000,4100000,0,20890000,https://www.leapmotorchile.cl/modelos/b10/cotiza.html#bev-life-electrico-bev-at
+2026-11-11,PEUGEOT-2008-HYBRID,Peugeot,2008 Hybrid,MCA Style Hybrid 136HP AT,23190000,5300000,0,17890000,https://cotizador.peugeot.cl/modelos/2008/cotiza.html
+2026-11-11,PEUGEOT-2008-HYBRID,Peugeot,2008 Hybrid,MCA Allure Hybrid 136HP AT,25290000,5400000,0,19890000,https://cotizador.peugeot.cl/modelos/2008/cotiza.html
+2026-11-11,PEUGEOT-2008-HYBRID,Peugeot,2008 Hybrid,MCA GT Hybrid 136HP AT,28590000,5700000,0,22890000,https://cotizador.peugeot.cl/modelos/2008/cotiza.html
+2026-11-11,PEUGEOT-2008-ELECTRIC,Peugeot,2008 Electric,MCA GT Electric,29590000,4000000,0,25590000,https://cotizador.peugeot.cl/modelos/2008/cotiza.html#mca-gt-electric
+2026-11-11,DFSK-600-PHEV,DFSK,600 PHEV,ELITE,24990000,3000000,2500000,19490000,https://www.dfsk.cl/pasajeros/vehiculo/600-phev/
+2026-11-11,DFSK-600-PHEV,DFSK,600 PHEV,ELITE PRO,28990000,3000000,4000000,21990000,https://www.dfsk.cl/pasajeros/vehiculo/600-phev/
+2026-11-11,DFSK-E5-PLUS,DFSK,E5 Plus,E5 PLUS,29990000,3000000,3000000,23990000,https://www.dfsk.cl/vehiculos/dfsk/e5-plus/
+2026-11-11,KAIYI-KYX7,Kaiyi,KYX7,1.6T 7DCT STD,19990000,2000000,1500000,16490000,https://kaiyi.cl/modelos/kyx7
+2026-11-11,KAIYI-KYX7,Kaiyi,KYX7,1.6T 7DCT LUX,20990000,1500000,1500000,17990000,https://kaiyi.cl/modelos/kyx7
+2026-11-11,KAIYI-KYX7,Kaiyi,KYX7,2.0T 7DCT LUX,22990000,1500000,1500000,19990000,https://kaiyi.cl/modelos/kyx7
+2026-11-11,KGM-REXTON,KGM,Rexton,LX 2.2TD 8AT 2WD 2AB,32990000,3500000,1000000,28490000,https://www.kgmauto.cl/modelos/rexton/
+2026-11-11,KGM-REXTON,KGM,Rexton,GLX 2.2TD 8AT 2WD 6AB,36190000,3700000,1000000,31490000,https://www.kgmauto.cl/modelos/rexton/
+2026-11-11,GAC-GS8,GAC,GS8,2.0 AT 2WD,25990000,0,3000000,22990000,https://www.gacautos.cl/cotizar/?modelo=gac-gs8
+2026-11-11,GAC-GS8,GAC,GS8,GX 2.0 AT 4WD,32990000,0,3000000,29990000,https://www.gacautos.cl/cotizar/?modelo=gac-gs8
