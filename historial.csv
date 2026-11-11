@@ -260,8 +260,6 @@ Fecha,ID modelo,Marca,Modelo,Versión,Precio lista,Bono marca,Bono financiamient
 2026-11-11,CHEVROLET-NEW-GROOVE,Chevrolet,New Groove,1.5T RS CVT V,17490000,0,1500000,15990000,https://www.coseche.com/marcas/chevrolet/nuevo/chevrolet-new-groove
 2026-11-11,CHEVROLET-TRACKER,Chevrolet,Tracker,1.2T LTZ AT T,19490000,0,1000000,18490000,https://www.coseche.com/marcas/chevrolet/nuevo/chevrolet-tracker
 2026-11-11,CHEVROLET-TRACKER,Chevrolet,Tracker,1.2T PREMIER AT T,20990000,0,1000000,19990000,https://www.coseche.com/marcas/chevrolet/nuevo/chevrolet-tracker
-2026-11-11,CHEVROLET-SPARK-EUV,Chevrolet,Spark EUV,ACTIV LI T,20890000,0,2900000,17990000,https://www.coseche.com/marcas/chevrolet/nuevo/chevrolet-spark-euv
-2026-11-11,CHEVROLET-SPARK-EUV,Chevrolet,Spark EUV,ACTIV T,20890000,0,2900000,17990000,https://www.coseche.com/marcas/chevrolet/nuevo/chevrolet-spark-euv
 2026-11-11,TOYOTA-RAIZE,Toyota,Raize,I MT,13990000,200000,1300000,12490000,https://toyota.cl/terminos-y-condiciones-comerciales-por-modelo/
 2026-11-11,TOYOTA-RAIZE,Toyota,Raize,E MT,15990000,200000,1300000,14490000,https://toyota.cl/terminos-y-condiciones-comerciales-por-modelo/
 2026-11-11,TOYOTA-RAIZE,Toyota,Raize,E CVT,16990000,700000,1500000,14790000,https://toyota.cl/terminos-y-condiciones-comerciales-por-modelo/
@@ -369,3 +367,6 @@ Fecha,ID modelo,Marca,Modelo,Versión,Precio lista,Bono marca,Bono financiamient
 2026-11-11,BYD-SONG-PLUS,BYD,Song Plus,GL,29490000,2500000,1000000,25990000,https://astararetail.cl/byd-song-plus/
 2026-11-11,BYD-SONG-PLUS,BYD,Song Plus,GS,31490000,2500000,1000000,27990000,https://astararetail.cl/byd-song-plus/
 2026-11-11,BYD-YUAN-PLUS,BYD,Yuan Plus,GS,25490000,2500000,1000000,21990000,https://astararetail.cl/byd-yuan-plus/
+2026-11-11,CHEVROLET-SPARK-EUV,Chevrolet,Spark EUV,ACTIV LI T,21790000,0,2800000,18990000,https://www.coseche.com/marcas/chevrolet/nuevo/chevrolet-spark-euv
+2026-11-11,CHEVROLET-SPARK-EUV,Chevrolet,Spark EUV,ACTIV T,21790000,0,2800000,18990000,https://www.coseche.com/marcas/chevrolet/nuevo/chevrolet-spark-euv
+2026-11-11,CHEVROLET-SPARK-EUV,Chevrolet,Spark EUV,ACTIV BI V,21990000,0,2200000,19790000,https://www.coseche.com/marcas/chevrolet/nuevo/chevrolet-spark-euv
