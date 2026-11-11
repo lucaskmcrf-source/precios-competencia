@@ -224,14 +224,6 @@ Fecha,ID modelo,Marca,Modelo,Versión,Precio lista,Bono marca,Bono financiamient
 2026-11-11,JETOUR-DASHING,Jetour,Dashing,6DCT 1.5T Special Edition FL,16990000,3000000,1000000,12990000,https://jetourchile.cl/w/dashing
 2026-11-11,JETOUR-DASHING,Jetour,Dashing,6DCT 1.5T Lux,18490000,1000000,1000000,16490000,https://jetourchile.cl/w/dashing
 2026-11-11,JETOUR-DASHING,Jetour,Dashing,7DCT 1.6T Limited,20990000,2500000,1000000,17490000,https://jetourchile.cl/w/dashing
-2026-11-11,JETOUR-X70,Jetour,X70,1.5L 6MT TURBO FL,17490000,4000000,700000,12790000,https://jetourchile.cl/w/x70
-2026-11-11,JETOUR-X70,Jetour,X70,1.5L 6DCT TURBO FL,19490000,4000000,700000,14790000,https://jetourchile.cl/w/x70
-2026-11-11,JETOUR-X50,Jetour,X50,1.5L MT LUX,12490000,2500000,700000,9290000,https://jetourchile.cl/w/x50
-2026-11-11,JETOUR-X50,Jetour,X50,1.5T 6DCT TURBO LUX,15490000,2300000,700000,12490000,https://jetourchile.cl/w/x50
-2026-11-11,JETOUR-T1-PHEV,Jetour,T1 PHEV,1.5T PHEV LIMITED,29990000,0,1500000,28490000,https://jetourchile.cl/w/t1-phev
-2026-11-11,JETOUR-T2-PHEV,Jetour,T2 PHEV,1.5T PHEV LIMITED,36990000,1000000,1500000,34490000,https://jetourchile.cl/w/t2-phev
-2026-11-11,JETOUR-T1,Jetour,T1,1.5T 7DCT Lux,22990000,3000000,1300000,18690000,https://jetourchile.cl/w/t1
-2026-11-11,JETOUR-T1,Jetour,T1,2.0T 8AT Limited,26990000,2700000,1300000,22990000,https://jetourchile.cl/w/t1
 2026-11-11,OMODA-C5,OMODA,C5,URBAN 1.5 L,13990000,0,1500000,12490000,https://www.omodajaecoo.cl/modelos/omoda-c5-2/
 2026-11-11,OMODA-C5,OMODA,C5,COMFORT 1.5T,15990000,0,2300000,13690000,https://www.omodajaecoo.cl/modelos/omoda-c5-2/
 2026-11-11,OMODA-C5,OMODA,C5,LUXURY 1.5T,17990000,0,2000000,15990000,https://www.omodajaecoo.cl/modelos/omoda-c5-2/
@@ -266,14 +258,10 @@ Fecha,ID modelo,Marca,Modelo,Versión,Precio lista,Bono marca,Bono financiamient
 2026-11-11,CHEVROLET-NEW-GROOVE,Chevrolet,New Groove,1.5L RS MT V,15490000,0,1500000,13990000,https://www.coseche.com/marcas/chevrolet/nuevo/chevrolet-new-groove
 2026-11-11,CHEVROLET-NEW-GROOVE,Chevrolet,New Groove,1.5T RS CVT T,16490000,0,1200000,15290000,https://www.coseche.com/marcas/chevrolet/nuevo/chevrolet-new-groove
 2026-11-11,CHEVROLET-NEW-GROOVE,Chevrolet,New Groove,1.5T RS CVT V,17490000,0,1500000,15990000,https://www.coseche.com/marcas/chevrolet/nuevo/chevrolet-new-groove
-2026-11-11,CHEVROLET-CAPTIVA-PHEV,Chevrolet,Captiva PHEV,1.5L PREMIER LI FWD T,27290000,0,1300000,25990000,https://www.coseche.com/marcas/chevrolet/nuevo/chevrolet-captiva-phev
-2026-11-11,CHEVROLET-CAPTIVA-PHEV,Chevrolet,Captiva PHEV,1.5L PREMIER FWD T,27290000,0,1300000,25990000,https://www.coseche.com/marcas/chevrolet/nuevo/chevrolet-captiva-phev
 2026-11-11,CHEVROLET-TRACKER,Chevrolet,Tracker,1.2T LTZ AT T,19490000,0,1000000,18490000,https://www.coseche.com/marcas/chevrolet/nuevo/chevrolet-tracker
 2026-11-11,CHEVROLET-TRACKER,Chevrolet,Tracker,1.2T PREMIER AT T,20990000,0,1000000,19990000,https://www.coseche.com/marcas/chevrolet/nuevo/chevrolet-tracker
 2026-11-11,CHEVROLET-SPARK-EUV,Chevrolet,Spark EUV,ACTIV LI T,20890000,0,2900000,17990000,https://www.coseche.com/marcas/chevrolet/nuevo/chevrolet-spark-euv
 2026-11-11,CHEVROLET-SPARK-EUV,Chevrolet,Spark EUV,ACTIV T,20890000,0,2900000,17990000,https://www.coseche.com/marcas/chevrolet/nuevo/chevrolet-spark-euv
-2026-11-11,CHEVROLET-CAPTIVA-EV,Chevrolet,Captiva EV,PREMIER FWD T,28990000,0,1000000,27990000,https://www.coseche.com/marcas/chevrolet/nuevo/chevrolet-captiva-ev
-2026-11-11,CHEVROLET-CAPTIVA-EV,Chevrolet,Captiva EV,PREMIER LI FWD T,28990000,0,1000000,27990000,https://www.coseche.com/marcas/chevrolet/nuevo/chevrolet-captiva-ev
 2026-11-11,TOYOTA-RAIZE,Toyota,Raize,I MT,13990000,200000,1300000,12490000,https://toyota.cl/terminos-y-condiciones-comerciales-por-modelo/
 2026-11-11,TOYOTA-RAIZE,Toyota,Raize,E MT,15990000,200000,1300000,14490000,https://toyota.cl/terminos-y-condiciones-comerciales-por-modelo/
 2026-11-11,TOYOTA-RAIZE,Toyota,Raize,E CVT,16990000,700000,1500000,14790000,https://toyota.cl/terminos-y-condiciones-comerciales-por-modelo/
@@ -323,11 +311,6 @@ Fecha,ID modelo,Marca,Modelo,Versión,Precio lista,Bono marca,Bono financiamient
 2026-11-11,SOUEAST-S06,Soueast,S06,1.5T 6DCT LUX,16990000,1500000,1000000,14490000,https://soueastchile.cl/s06
 2026-11-11,SOUEAST-S06,Soueast,S06,1.6T 7DCT LUX,17990000,2000000,1000000,14990000,https://soueastchile.cl/s06
 2026-11-11,SOUEAST-S06,Soueast,S06,1.6T 7DCT LIMITED,19490000,1500000,1000000,16990000,https://soueastchile.cl/s06
-2026-11-11,SOUEAST-S06-PHEV,Soueast,S06 PHEV,LUX,24990000,3000000,2000000,19990000,https://soueastchile.cl/s06-phev
-2026-11-11,SOUEAST-S06-PHEV,Soueast,S06 PHEV,LIMITED,26990000,2500000,2000000,22490000,https://soueastchile.cl/s06-phev
-2026-11-11,SOUEAST-S08-PHEV,Soueast,S08 PHEV,LIMITED,29990000,3000000,2000000,24990000,https://soueastchile.cl/s08-phev
-2026-11-11,SOUEAST-S07,Soueast,S07,1.5T 6DCT,17990000,1500000,1000000,15490000,https://soueastchile.cl/s07
-2026-11-11,SOUEAST-S07,Soueast,S07,1.6T 7DCT,19490000,1500000,1000000,16990000,https://soueastchile.cl/s07
 2026-11-11,VW-TERA,Volkswagen,Tera,Trend MT,16590000,1050000,1250000,14290000,https://www.volkswagen.cl/tera/tera
 2026-11-11,VW-TERA,Volkswagen,Tera,Comfort MT,17490000,1000000,1200000,15290000,https://www.volkswagen.cl/tera/tera
 2026-11-11,VW-TERA,Volkswagen,Tera,Comfort AT,18990000,1400000,1300000,16290000,https://www.volkswagen.cl/tera/tera
@@ -350,11 +333,6 @@ Fecha,ID modelo,Marca,Modelo,Versión,Precio lista,Bono marca,Bono financiamient
 2026-11-11,SUZUKI-E-VITARA,Suzuki,e Vitara,GLX 4WD,35990000,2000000,1000000,32990000,https://www.suzuki.cl/vehiculo/e-vitara/
 2026-11-11,BYD-YUAN-PRO,BYD,Yuan Pro,GL,19990000,500000,1000000,18490000,https://astararetail.cl/byd-yuan-pro/
 2026-11-11,BYD-YUAN-PRO,BYD,Yuan Pro,GS,22990000,500000,1000000,21490000,https://astararetail.cl/byd-yuan-pro/
-2026-11-11,BYD-SONG-PRO,BYD,Song Pro,GL,24490000,1500000,1000000,21990000,https://astararetail.cl/byd-song-pro/
-2026-11-11,BYD-SONG-PRO,BYD,Song Pro,GS,26490000,1500000,1000000,23990000,https://astararetail.cl/byd-song-pro/
-2026-11-11,BYD-SONG-PLUS,BYD,Song Plus,GL,29490000,1500000,1000000,26990000,https://astararetail.cl/byd-song-plus/
-2026-11-11,BYD-SONG-PLUS,BYD,Song Plus,GS,31490000,1500000,1000000,28990000,https://astararetail.cl/byd-song-plus/
-2026-11-11,BYD-YUAN-PLUS,BYD,Yuan Plus,GS,25490000,1500000,1000000,22990000,https://astararetail.cl/byd-yuan-plus/
 2026-11-11,DEEPAL-S07-REEV,Deepal,S07,REEV,32990000,700000,2300000,29990000,https://www.deepalautos.cl/vehiculo/s07
 2026-11-11,DEEPAL-S05-REEV,Deepal,S05,REEV,29990000,3100000,1900000,24990000,https://www.deepalautos.cl/vehiculo/s05
 2026-11-11,MAZDA-CX-5,Mazda,CX-5,CORE 2.0 2WD 6AT,24990000,1400000,1300000,22290000,https://www.mazda.cl/vehiculo/mazda-cx-5/
@@ -369,3 +347,25 @@ Fecha,ID modelo,Marca,Modelo,Versión,Precio lista,Bono marca,Bono financiamient
 2026-11-11,MITSUBISHI-OUTLANDER,Mitsubishi,Outlander,4x2 AT GL,28990000,,,23990000,https://mitsubishi-motors.cl/modelos/outlander/
 2026-11-11,MITSUBISHI-OUTLANDER,Mitsubishi,Outlander,4X2 AT GLX,31990000,,,26990000,https://mitsubishi-motors.cl/modelos/outlander/
 2026-11-11,MITSUBISHI-OUTLANDER,Mitsubishi,Outlander,4X4 AT GLS,35490000,,,30990000,https://mitsubishi-motors.cl/modelos/outlander/
+2026-11-11,JETOUR-X70,Jetour,X70,1.5L 6MT TURBO FL,15990000,2500000,1000000,12490000,https://jetourchile.cl/w/x70
+2026-11-11,JETOUR-X70,Jetour,X70,1.5L 6DCT TURBO FL,17990000,3000000,1000000,13990000,https://jetourchile.cl/w/x70
+2026-11-11,JETOUR-X50,Jetour,X50,1.5L MT LUX,11490000,1700000,1000000,8790000,https://jetourchile.cl/w/x50
+2026-11-11,JETOUR-X50,Jetour,X50,1.5T 6DCT TURBO LUX,14490000,1500000,1000000,11990000,https://jetourchile.cl/w/x50
+2026-11-11,JETOUR-T1-PHEV,Jetour,T1 PHEV,1.5T PHEV LIMITED,30990000,0,1000000,29990000,https://jetourchile.cl/w/t1-phev
+2026-11-11,JETOUR-T2-PHEV,Jetour,T2 PHEV,1.5T PHEV LIMITED,36490000,1000000,1000000,34490000,https://jetourchile.cl/w/t2-phev
+2026-11-11,JETOUR-T1,Jetour,T1,1.5T 7DCT Lux,21990000,2700000,1300000,17990000,https://jetourchile.cl/w/t1
+2026-11-11,JETOUR-T1,Jetour,T1,2.0T 8AT Limited,25990000,2700000,1300000,21990000,https://jetourchile.cl/w/t1
+2026-11-11,CHEVROLET-CAPTIVA-PHEV,Chevrolet,Captiva PHEV,1.5L PREMIER LI FWD T,26290000,0,2300000,23990000,https://www.coseche.com/marcas/chevrolet/nuevo/chevrolet-captiva-phev
+2026-11-11,CHEVROLET-CAPTIVA-PHEV,Chevrolet,Captiva PHEV,1.5L PREMIER FWD T,26290000,0,2300000,23990000,https://www.coseche.com/marcas/chevrolet/nuevo/chevrolet-captiva-phev
+2026-11-11,CHEVROLET-CAPTIVA-EV,Chevrolet,Captiva EV,PREMIER FWD T,29290000,0,1300000,27990000,https://www.coseche.com/marcas/chevrolet/nuevo/chevrolet-captiva-ev
+2026-11-11,CHEVROLET-CAPTIVA-EV,Chevrolet,Captiva EV,PREMIER LI FWD T,29290000,0,1300000,27990000,https://www.coseche.com/marcas/chevrolet/nuevo/chevrolet-captiva-ev
+2026-11-11,SOUEAST-S06-PHEV,Soueast,S06 PHEV,LUX,23990000,2000000,2000000,19990000,https://soueastchile.cl/s06-phev
+2026-11-11,SOUEAST-S06-PHEV,Soueast,S06 PHEV,LIMITED,25990000,1500000,2000000,22490000,https://soueastchile.cl/s06-phev
+2026-11-11,SOUEAST-S08-PHEV,Soueast,S08 PHEV,LIMITED,28990000,2000000,2000000,24990000,https://soueastchile.cl/s08-phev
+2026-11-11,SOUEAST-S07,Soueast,S07,1.5T 6DCT,16990000,0,1000000,15990000,https://soueastchile.cl/s07
+2026-11-11,SOUEAST-S07,Soueast,S07,1.6T 7DCT,18490000,500000,1000000,16990000,https://soueastchile.cl/s07
+2026-11-11,BYD-SONG-PRO,BYD,Song Pro,GL,24490000,2500000,1000000,20990000,https://astararetail.cl/byd-song-pro/
+2026-11-11,BYD-SONG-PRO,BYD,Song Pro,GS,26490000,2500000,1000000,22990000,https://astararetail.cl/byd-song-pro/
+2026-11-11,BYD-SONG-PLUS,BYD,Song Plus,GL,29490000,2500000,1000000,25990000,https://astararetail.cl/byd-song-plus/
+2026-11-11,BYD-SONG-PLUS,BYD,Song Plus,GS,31490000,2500000,1000000,27990000,https://astararetail.cl/byd-song-plus/
+2026-11-11,BYD-YUAN-PLUS,BYD,Yuan Plus,GS,25490000,2500000,1000000,21990000,https://astararetail.cl/byd-yuan-plus/
