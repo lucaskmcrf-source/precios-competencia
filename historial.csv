@@ -204,11 +204,6 @@ Fecha,ID modelo,Marca,Modelo,Versión,Precio lista,Bono marca,Bono financiamient
 2026-11-11,FORD-TERRITORY,Ford,Territory,Titanium 1.5L 4x2,25690000,0,4700000,20990000,https://www.ford.cl/suvs-crossovers/territory/
 2026-11-11,FORD-TERRITORY-HEV,Ford,Territory Híbrida,Titanium Híbrida,30590000,0,4600000,25990000,https://www.ford.cl/suvs-crossovers/territory/
 2026-11-11,FORD-TERRITORY-HEV,Ford,Territory Híbrida,Platinum Híbrida,32190000,0,4600000,27590000,https://www.ford.cl/suvs-crossovers/territory/
-2026-11-12,DONGFENG-L7-PHEV,Dongfeng,L7 PHEV,1.5T PHEV,23990000,,,21990000,https://www.pompeyo.cl/producto/l7/
-2026-11-12,DONGFENG-L7-PHEV,Dongfeng,L7 PHEV,1.5T PHEV ELITE,,,,24990000,https://www.pompeyo.cl/producto/l7/
-2026-11-12,DONGFENG-VIGO,Dongfeng,Vigo,EV 45.0KWH SR FULL,20990000,,,19490000,https://www.pompeyo.cl/producto/vigo/
-2026-11-12,DONGFENG-VIGO,Dongfeng,Vigo,EV 51.9KWH LR ELITE,,,,21490000,https://www.pompeyo.cl/producto/vigo/
-2026-11-12,VOLVO-EX30,Volvo,EX30,E40 CORE,35900000,0,6000000,29900000,https://www.volvohomestore.cl/cl/cars/ex30
 2026-11-12,JETOUR-X50,Jetour,X50,1.5L MT LUX,11490000,1700000,1000000,8790000,https://jetourchile.cl/w/x50
 2026-11-12,JETOUR-X50,Jetour,X50,1.5T 6DCT TURBO LUX,14490000,1500000,1000000,11990000,https://jetourchile.cl/w/x50
 2026-11-12,JETOUR-X70,Jetour,X70,1.5L 6MT TURBO FL,15990000,2500000,1000000,12490000,https://jetourchile.cl/w/x70
@@ -222,6 +217,45 @@ Fecha,ID modelo,Marca,Modelo,Versión,Precio lista,Bono marca,Bono financiamient
 2026-11-12,JETOUR-T2-PHEV,Jetour,T2 PHEV,1.5T PHEV LIMITED,36490000,1000000,1000000,34490000,https://jetourchile.cl/w/t2-phev
 2026-11-12,JETOUR-T1,Jetour,T1,1.5T 7DCT Lux,21990000,2700000,1300000,17990000,https://jetourchile.cl/w/t1
 2026-11-12,JETOUR-T1,Jetour,T1,2.0T 8AT Limited,25990000,2700000,1300000,21990000,https://jetourchile.cl/w/t1
+2026-11-12,CHANGAN-CS35-PLUS,Changan,CS35 Plus,Luxury AT,17590000,3600000,1000000,12990000,https://www.changan.cl/vehiculo/new-cs35-plus/
+2026-11-12,CHANGAN-CS35-PLUS,Changan,CS35 Plus,Elite AT,18890000,2800000,1000000,15090000,https://www.changan.cl/vehiculo/new-cs35-plus/
+2026-11-12,CHANGAN-CS55-PLUS,Changan,CS55 Plus,Luxury AT,19190000,3300000,900000,14990000,https://www.changan.cl/vehiculo/new-cs55-plus/
+2026-11-12,CHANGAN-CS55-PLUS,Changan,CS55 Plus,Elite AT,22190000,4300000,900000,16990000,https://www.changan.cl/vehiculo/new-cs55-plus/
+2026-11-12,SOUEAST-S06,Soueast,S06,1.5T 6DCT LUX,16990000,1500000,1000000,14490000,https://soueastchile.cl/s06
+2026-11-12,SOUEAST-S06,Soueast,S06,1.6T 7DCT LUX,17990000,2000000,1000000,14990000,https://soueastchile.cl/s06
+2026-11-12,SOUEAST-S06,Soueast,S06,1.6T 7DCT LIMITED,19490000,1500000,1000000,16990000,https://soueastchile.cl/s06
+2026-11-12,SOUEAST-S06-PHEV,Soueast,S06 PHEV,LUX,23990000,2000000,2000000,19990000,https://soueastchile.cl/s06-phev
+2026-11-12,SOUEAST-S06-PHEV,Soueast,S06 PHEV,LIMITED,25990000,1500000,2000000,22490000,https://soueastchile.cl/s06-phev
+2026-11-12,SOUEAST-S08-PHEV,Soueast,S08 PHEV,LIMITED,28990000,2000000,2000000,24990000,https://soueastchile.cl/s08-phev
+2026-11-12,SOUEAST-S07,Soueast,S07,1.5T 6DCT,16990000,0,1000000,15990000,https://soueastchile.cl/s07
+2026-11-12,SOUEAST-S07,Soueast,S07,1.6T 7DCT,18490000,500000,1000000,16990000,https://soueastchile.cl/s07
+2026-11-12,LEAPMOTOR-C10-REEV,Leapmotor,C10 REEV,REEV Design Ultra Híbrido AT,30990000,5000000,0,25990000,https://www.leapmotorchile.cl/modelos/c10/cotiza.html
+2026-11-12,LEAPMOTOR-C10-BEV,Leapmotor,C10 BEV,BEV Design Eléctrico AT,29490000,2500000,0,26990000,https://www.leapmotorchile.cl/modelos/c10/cotiza.html#electrico
+2026-11-12,LEAPMOTOR-B10,Leapmotor,B10,BEV Life Eléctrico AT,24990000,4100000,0,20890000,https://www.leapmotorchile.cl/modelos/b10/cotiza.html#bev-life-electrico-bev-at
+2026-11-12,PEUGEOT-2008-HYBRID,Peugeot,2008 Hybrid,MCA Style Hybrid 136HP AT,23190000,5300000,0,17890000,https://cotizador.peugeot.cl/modelos/2008/cotiza.html
+2026-11-12,PEUGEOT-2008-HYBRID,Peugeot,2008 Hybrid,MCA Allure Hybrid 136HP AT,25290000,5400000,0,19890000,https://cotizador.peugeot.cl/modelos/2008/cotiza.html
+2026-11-12,PEUGEOT-2008-HYBRID,Peugeot,2008 Hybrid,MCA GT Hybrid 136HP AT,28590000,5700000,0,22890000,https://cotizador.peugeot.cl/modelos/2008/cotiza.html
+2026-11-12,PEUGEOT-2008-ELECTRIC,Peugeot,2008 Electric,MCA GT Electric,29590000,4000000,0,25590000,https://cotizador.peugeot.cl/modelos/2008/cotiza.html#mca-gt-electric
+2026-11-12,KAIYI-KYX7,Kaiyi,KYX7,1.6T 7DCT STD,19990000,2000000,1500000,16490000,https://kaiyi.cl/modelos/kyx7
+2026-11-12,KAIYI-KYX7,Kaiyi,KYX7,1.6T 7DCT LUX,20990000,1500000,1500000,17990000,https://kaiyi.cl/modelos/kyx7
+2026-11-12,KAIYI-KYX7,Kaiyi,KYX7,2.0T 7DCT LUX,22990000,1500000,1500000,19990000,https://kaiyi.cl/modelos/kyx7
+2026-11-12,JEEP-AVENGER,Jeep,Avenger,Altitude 1.2T H DDCT6 FWD,24990000,5400000,0,19590000,https://www.jeepcotizador.com/modelos/avenger/cotiza.html
+2026-11-12,JEEP-AVENGER,Jeep,Avenger,Summit 1.2T H DDT6 FWD,27490000,5400000,0,22090000,https://www.jeepcotizador.com/modelos/avenger/cotiza.html
+2026-11-12,JEEP-AVENGER-BEV,Jeep,Avenger BEV,Summit BEV,31590000,5600000,0,25990000,https://www.jeepcotizador.com/modelos/avenger/cotiza.html#summit-bev
+2026-11-12,FORD-TERRITORY,Ford,Territory,Trend 1.5 4x2,21290000,0,3300000,17990000,https://www.ford.cl/suvs-crossovers/territory/
+2026-11-12,FORD-TERRITORY,Ford,Territory,Titanium 1.5L 4x2,25690000,0,4700000,20990000,https://www.ford.cl/suvs-crossovers/territory/
+2026-11-12,FORD-TERRITORY-HEV,Ford,Territory Híbrida,Titanium Híbrida,30590000,0,4600000,25990000,https://www.ford.cl/suvs-crossovers/territory/
+2026-11-12,FORD-TERRITORY-HEV,Ford,Territory Híbrida,Platinum Híbrida,32190000,0,4600000,27590000,https://www.ford.cl/suvs-crossovers/territory/
+2026-11-12,MAZDA-CX-5,Mazda,CX-5,CORE 2.0 2WD 6AT,24990000,1400000,1300000,22290000,https://www.mazda.cl/vehiculo/mazda-cx-5/
+2026-11-12,MAZDA-CX-5,Mazda,CX-5,CORE 2.0 AWD 6AT,27490000,800000,1500000,25190000,https://www.mazda.cl/vehiculo/mazda-cx-5/
+2026-11-12,MAZDA-CX-30,Mazda,CX-30,ENTRY 2.0 2WD AT 7G,22990000,1000000,1000000,20990000,https://www.mazda.cl/vehiculo/mazda-cx-30/
+2026-11-12,MAZDA-CX-30,Mazda,CX-30,CORE 2.0 2WD 6MT 7G,23390000,1100000,1000000,21290000,https://www.mazda.cl/vehiculo/mazda-cx-30/
+2026-11-12,MAZDA-CX-30,Mazda,CX-30,CORE 2.0 2WD 6AT 7G,24090000,1400000,1000000,21690000,https://www.mazda.cl/vehiculo/mazda-cx-30/
+2026-11-12,DONGFENG-L7-PHEV,Dongfeng,L7 PHEV,1.5T PHEV,23990000,,,21990000,https://www.pompeyo.cl/producto/l7/
+2026-11-12,DONGFENG-L7-PHEV,Dongfeng,L7 PHEV,1.5T PHEV ELITE,,,,24990000,https://www.pompeyo.cl/producto/l7/
+2026-11-12,DONGFENG-VIGO,Dongfeng,Vigo,EV 45.0KWH SR FULL,20990000,,,19490000,https://www.pompeyo.cl/producto/vigo/
+2026-11-12,DONGFENG-VIGO,Dongfeng,Vigo,EV 51.9KWH LR ELITE,,,,21490000,https://www.pompeyo.cl/producto/vigo/
+2026-11-12,VOLVO-EX30,Volvo,EX30,E40 CORE,35900000,0,6000000,29900000,https://www.volvohomestore.cl/cl/cars/ex30
 2026-11-12,OMODA-C5,OMODA,C5,URBAN 1.5 L,13990000,0,1500000,12490000,https://www.omodajaecoo.cl/modelos/omoda-c5-2/
 2026-11-12,OMODA-C5,OMODA,C5,COMFORT 1.5T,15990000,0,2300000,13690000,https://www.omodajaecoo.cl/modelos/omoda-c5-2/
 2026-11-12,OMODA-C5,OMODA,C5,LUXURY 1.5T,17990000,0,2000000,15990000,https://www.omodajaecoo.cl/modelos/omoda-c5-2/
@@ -281,8 +315,6 @@ Fecha,ID modelo,Marca,Modelo,Versión,Precio lista,Bono marca,Bono financiamient
 2026-11-12,GEELY-EX5,Geely,EX5,Max,33990000,2000000,2000000,29990000,https://www.geely.cl/modelos/ex5/
 2026-11-12,GEELY-OKAVANGO,Geely,Okavango,Exclusive,24690000,1000000,2000000,21690000,https://www.geely.cl/modelos/okavango/
 2026-11-12,GEELY-OKAVANGO,Geely,Okavango,Signature,26690000,1000000,2000000,23690000,https://www.geely.cl/modelos/okavango/
-2026-11-12,CHANGAN-CS35-PLUS,Changan,CS35 Plus,Luxury AT,17590000,3600000,1000000,12990000,https://www.changan.cl/vehiculo/new-cs35-plus/
-2026-11-12,CHANGAN-CS35-PLUS,Changan,CS35 Plus,Elite AT,18890000,2800000,1000000,15090000,https://www.changan.cl/vehiculo/new-cs35-plus/
 2026-11-12,CHANGAN-NEW-CS55-PLUS,Changan,New CS55 Plus,COMFORT AT,18590000,3600000,1000000,13990000,https://www.changan.cl/vehiculo/cs55-plus/
 2026-11-12,CHANGAN-NEW-CS55-PLUS,Changan,New CS55 Plus,LUXURY AT,19590000,2700000,1100000,15790000,https://www.changan.cl/vehiculo/cs55-plus/
 2026-11-12,CHANGAN-NEW-CS55-PLUS,Changan,New CS55 Plus,ELITE AT,21590000,2300000,1300000,17990000,https://www.changan.cl/vehiculo/cs55-plus/
@@ -290,8 +322,6 @@ Fecha,ID modelo,Marca,Modelo,Versión,Precio lista,Bono marca,Bono financiamient
 2026-11-12,CHANGAN-CS35-MAX,Changan,CS35 Max,Comfort AT,16390000,2200000,800000,13390000,https://www.changan.cl/vehiculo/cs35-max/
 2026-11-12,CHANGAN-CS35-MAX,Changan,CS35 Max,Elite AT,17290000,1500000,1000000,14790000,https://www.changan.cl/vehiculo/cs35-max/
 2026-11-12,CHANGAN-CS35-MAX,Changan,CS35 Max,Deluxe AT,18890000,1700000,1200000,15990000,https://www.changan.cl/vehiculo/cs35-max/
-2026-11-12,CHANGAN-CS55-PLUS,Changan,CS55 Plus,Luxury AT,19190000,3300000,900000,14990000,https://www.changan.cl/vehiculo/new-cs55-plus/
-2026-11-12,CHANGAN-CS55-PLUS,Changan,CS55 Plus,Elite AT,22190000,4300000,900000,16990000,https://www.changan.cl/vehiculo/new-cs55-plus/
 2026-11-12,CHANGAN-UNI-K,Changan,UNI-K,Luxury AT,26990000,2200000,1800000,22990000,https://www.changan.cl/vehiculo/uni-k/
 2026-11-12,CHANGAN-UNI-K,Changan,UNI-K,Elite AT,29990000,2000000,2000000,25990000,https://www.changan.cl/vehiculo/uni-k/
 2026-11-12,CHANGAN-UNI-T,Changan,UNI-T,Elite,26290000,5800000,1500000,18990000,https://www.changan.cl/vehiculo/uni-t/
@@ -301,14 +331,6 @@ Fecha,ID modelo,Marca,Modelo,Versión,Precio lista,Bono marca,Bono financiamient
 2026-11-12,CHANGAN-X7-PLUS,Changan,X7 Plus,Elite MT,18490000,2400000,1100000,14990000,https://www.changan.cl/vehiculo/x7-plus/
 2026-11-12,CHANGAN-X7-PLUS,Changan,X7 Plus,Luxury AT,18990000,2300000,1000000,15690000,https://www.changan.cl/vehiculo/x7-plus/
 2026-11-12,CHANGAN-X7-PLUS,Changan,X7 Plus,Elite AT,19990000,2300000,1200000,16490000,https://www.changan.cl/vehiculo/x7-plus/
-2026-11-12,SOUEAST-S06,Soueast,S06,1.5T 6DCT LUX,16990000,1500000,1000000,14490000,https://soueastchile.cl/s06
-2026-11-12,SOUEAST-S06,Soueast,S06,1.6T 7DCT LUX,17990000,2000000,1000000,14990000,https://soueastchile.cl/s06
-2026-11-12,SOUEAST-S06,Soueast,S06,1.6T 7DCT LIMITED,19490000,1500000,1000000,16990000,https://soueastchile.cl/s06
-2026-11-12,SOUEAST-S06-PHEV,Soueast,S06 PHEV,LUX,23990000,2000000,2000000,19990000,https://soueastchile.cl/s06-phev
-2026-11-12,SOUEAST-S06-PHEV,Soueast,S06 PHEV,LIMITED,25990000,1500000,2000000,22490000,https://soueastchile.cl/s06-phev
-2026-11-12,SOUEAST-S08-PHEV,Soueast,S08 PHEV,LIMITED,28990000,2000000,2000000,24990000,https://soueastchile.cl/s08-phev
-2026-11-12,SOUEAST-S07,Soueast,S07,1.5T 6DCT,16990000,0,1000000,15990000,https://soueastchile.cl/s07
-2026-11-12,SOUEAST-S07,Soueast,S07,1.6T 7DCT,18490000,500000,1000000,16990000,https://soueastchile.cl/s07
 2026-11-12,VW-TERA,Volkswagen,Tera,Trend MT,16590000,1050000,1250000,14290000,https://www.volkswagen.cl/tera/tera
 2026-11-12,VW-TERA,Volkswagen,Tera,Comfort MT,17490000,1000000,1200000,15290000,https://www.volkswagen.cl/tera/tera
 2026-11-12,VW-TERA,Volkswagen,Tera,Comfort AT,18990000,1400000,1300000,16290000,https://www.volkswagen.cl/tera/tera
@@ -331,14 +353,14 @@ Fecha,ID modelo,Marca,Modelo,Versión,Precio lista,Bono marca,Bono financiamient
 2026-11-12,BYD-SONG-PLUS,BYD,Song Plus,GL,29490000,2500000,1000000,25990000,https://astararetail.cl/byd-song-plus/
 2026-11-12,BYD-SONG-PLUS,BYD,Song Plus,GS,31490000,2500000,1000000,27990000,https://astararetail.cl/byd-song-plus/
 2026-11-12,BYD-YUAN-PLUS,BYD,Yuan Plus,GS,25490000,2500000,1000000,21990000,https://astararetail.cl/byd-yuan-plus/
-2026-11-12,SUZUKI-FRONX,Suzuki,Fronx,1.5 GL,16990000,1500000,800000,14690000,https://www.suzuki.cl/vehiculo/fronx/
-2026-11-12,SUZUKI-FRONX,Suzuki,Fronx,1.5 GL AT,18590000,1500000,800000,16290000,https://www.suzuki.cl/vehiculo/fronx/
-2026-11-12,SUZUKI-FRONX,Suzuki,Fronx,1.5 GLX,18690000,1500000,800000,16390000,https://www.suzuki.cl/vehiculo/fronx/
-2026-11-12,SUZUKI-FRONX,Suzuki,Fronx,1.5 GLX AT,20290000,1500000,800000,17990000,https://www.suzuki.cl/vehiculo/fronx/
-2026-11-12,SUZUKI-ACROSS-HYBRID,Suzuki,Across Hybrid,GL MT,19890000,1500000,1000000,17390000,https://www.suzuki.cl/vehiculo/across-hybrid/
-2026-11-12,SUZUKI-ACROSS-HYBRID,Suzuki,Across Hybrid,GL AT,21390000,1500000,1000000,18890000,https://www.suzuki.cl/vehiculo/across-hybrid/
-2026-11-12,SUZUKI-ACROSS-HYBRID,Suzuki,Across Hybrid,GLX MT,21190000,1500000,1000000,18690000,https://www.suzuki.cl/vehiculo/across-hybrid/
-2026-11-12,SUZUKI-ACROSS-HYBRID,Suzuki,Across Hybrid,GLX AT,23290000,1500000,1000000,20790000,https://www.suzuki.cl/vehiculo/across-hybrid/
+2026-11-12,SUZUKI-FRONX,Suzuki,Fronx,1.5 GL,16990000,1500000,900000,14590000,https://www.suzuki.cl/vehiculo/fronx/
+2026-11-12,SUZUKI-FRONX,Suzuki,Fronx,1.5 GL AT,18590000,1500000,900000,16190000,https://www.suzuki.cl/vehiculo/fronx/
+2026-11-12,SUZUKI-FRONX,Suzuki,Fronx,1.5 GLX,18690000,1500000,900000,16290000,https://www.suzuki.cl/vehiculo/fronx/
+2026-11-12,SUZUKI-FRONX,Suzuki,Fronx,1.5 GLX AT,20290000,1500000,900000,17890000,https://www.suzuki.cl/vehiculo/fronx/
+2026-11-12,SUZUKI-ACROSS-HYBRID,Suzuki,Across Hybrid,GL MT,19890000,1500000,1200000,17190000,https://www.suzuki.cl/vehiculo/across-hybrid/
+2026-11-12,SUZUKI-ACROSS-HYBRID,Suzuki,Across Hybrid,GL AT,21390000,1500000,1200000,18690000,https://www.suzuki.cl/vehiculo/across-hybrid/
+2026-11-12,SUZUKI-ACROSS-HYBRID,Suzuki,Across Hybrid,GLX MT,21190000,1500000,1200000,18490000,https://www.suzuki.cl/vehiculo/across-hybrid/
+2026-11-12,SUZUKI-ACROSS-HYBRID,Suzuki,Across Hybrid,GLX AT,23290000,1500000,1200000,20590000,https://www.suzuki.cl/vehiculo/across-hybrid/
 2026-11-12,SUZUKI-E-VITARA,Suzuki,e Vitara,GL,30990000,2000000,1000000,27990000,https://www.suzuki.cl/vehiculo/e-vitara/
 2026-11-12,SUZUKI-E-VITARA,Suzuki,e Vitara,GLX 4WD,35990000,2000000,1000000,32990000,https://www.suzuki.cl/vehiculo/e-vitara/
 2026-11-12,TOYOTA-RAIZE,Toyota,Raize,I MT,13990000,200000,1300000,12490000,https://toyota.cl/terminos-y-condiciones-comerciales-por-modelo/
@@ -377,30 +399,13 @@ Fecha,ID modelo,Marca,Modelo,Versión,Precio lista,Bono marca,Bono financiamient
 2026-11-12,KIA-SONET,Kia,Sonet,EX 1.5L IVT L FULL,19490000,700000,1300000,17490000,https://www.kia.cl/promociones/kia-sonet.html
 2026-11-12,KIA-SPORTAGE,Kia,Sportage,LX 2.0L 6MT GSL,24990000,1500000,1500000,21990000,https://www.kia.cl/promociones/kia-sportage.html
 2026-11-12,KIA-SPORTAGE,Kia,Sportage,LX 2.0L 6AT GSL,26990000,1000000,1500000,24490000,https://www.kia.cl/promociones/kia-sportage.html
-2026-11-12,LEAPMOTOR-C10-REEV,Leapmotor,C10 REEV,REEV Design Ultra Híbrido AT,30990000,5000000,0,25990000,https://www.leapmotorchile.cl/modelos/c10/cotiza.html
-2026-11-12,LEAPMOTOR-C10-BEV,Leapmotor,C10 BEV,BEV Design Eléctrico AT,29490000,2500000,0,26990000,https://www.leapmotorchile.cl/modelos/c10/cotiza.html#electrico
-2026-11-12,LEAPMOTOR-B10,Leapmotor,B10,BEV Life Eléctrico AT,24990000,4100000,0,20890000,https://www.leapmotorchile.cl/modelos/b10/cotiza.html#bev-life-electrico-bev-at
-2026-11-12,PEUGEOT-2008-HYBRID,Peugeot,2008 Hybrid,MCA Style Hybrid 136HP AT,23190000,5300000,0,17890000,https://cotizador.peugeot.cl/modelos/2008/cotiza.html
-2026-11-12,PEUGEOT-2008-HYBRID,Peugeot,2008 Hybrid,MCA Allure Hybrid 136HP AT,25290000,5400000,0,19890000,https://cotizador.peugeot.cl/modelos/2008/cotiza.html
-2026-11-12,PEUGEOT-2008-HYBRID,Peugeot,2008 Hybrid,MCA GT Hybrid 136HP AT,28590000,5700000,0,22890000,https://cotizador.peugeot.cl/modelos/2008/cotiza.html
-2026-11-12,PEUGEOT-2008-ELECTRIC,Peugeot,2008 Electric,MCA GT Electric,29590000,4000000,0,25590000,https://cotizador.peugeot.cl/modelos/2008/cotiza.html#mca-gt-electric
 2026-11-12,DFSK-600-PHEV,DFSK,600 PHEV,ELITE,24990000,3000000,2500000,19490000,https://www.dfsk.cl/pasajeros/vehiculo/600-phev/
 2026-11-12,DFSK-600-PHEV,DFSK,600 PHEV,ELITE PRO,28990000,3000000,4000000,21990000,https://www.dfsk.cl/pasajeros/vehiculo/600-phev/
 2026-11-12,DFSK-E5-PLUS,DFSK,E5 Plus,E5 PLUS,29990000,3000000,3000000,23990000,https://www.dfsk.cl/vehiculos/dfsk/e5-plus/
-2026-11-12,KAIYI-KYX7,Kaiyi,KYX7,1.6T 7DCT STD,19990000,2000000,1500000,16490000,https://kaiyi.cl/modelos/kyx7
-2026-11-12,KAIYI-KYX7,Kaiyi,KYX7,1.6T 7DCT LUX,20990000,1500000,1500000,17990000,https://kaiyi.cl/modelos/kyx7
-2026-11-12,KAIYI-KYX7,Kaiyi,KYX7,2.0T 7DCT LUX,22990000,1500000,1500000,19990000,https://kaiyi.cl/modelos/kyx7
 2026-11-12,KGM-REXTON,KGM,Rexton,LX 2.2TD 8AT 2WD 2AB,32990000,3500000,1000000,28490000,https://www.kgmauto.cl/modelos/rexton/
 2026-11-12,KGM-REXTON,KGM,Rexton,GLX 2.2TD 8AT 2WD 6AB,36190000,3700000,1000000,31490000,https://www.kgmauto.cl/modelos/rexton/
 2026-11-12,GAC-GS8,GAC,GS8,2.0 AT 2WD,25990000,0,3000000,22990000,https://www.gacautos.cl/cotizar/?modelo=gac-gs8
 2026-11-12,GAC-GS8,GAC,GS8,GX 2.0 AT 4WD,32990000,0,3000000,29990000,https://www.gacautos.cl/cotizar/?modelo=gac-gs8
-2026-11-12,JEEP-AVENGER,Jeep,Avenger,Altitude 1.2T H DDCT6 FWD,24990000,5400000,0,19590000,https://www.jeepcotizador.com/modelos/avenger/cotiza.html
-2026-11-12,JEEP-AVENGER,Jeep,Avenger,Summit 1.2T H DDT6 FWD,27490000,5400000,0,22090000,https://www.jeepcotizador.com/modelos/avenger/cotiza.html
-2026-11-12,JEEP-AVENGER-BEV,Jeep,Avenger BEV,Summit BEV,31590000,5600000,0,25990000,https://www.jeepcotizador.com/modelos/avenger/cotiza.html#summit-bev
 2026-11-12,EXEED-LX,EXEED,LX,1.6T DCT ADVANCED,19990000,1500000,1500000,16990000,https://exeedbornformore.cl/modelos/new-exeed-lx/
 2026-11-12,EXEED-LX,EXEED,LX,1.6T DCT UNLIMITED,20990000,1000000,1500000,18490000,https://exeedbornformore.cl/modelos/new-exeed-lx/
 2026-11-12,EXEED-LX,EXEED,LX,1.6T DCT UNLIMITED AWD,23990000,500000,1500000,21990000,https://exeedbornformore.cl/modelos/new-exeed-lx/
-2026-11-12,FORD-TERRITORY,Ford,Territory,Trend 1.5 4x2,21290000,0,3300000,17990000,https://www.ford.cl/suvs-crossovers/territory/
-2026-11-12,FORD-TERRITORY,Ford,Territory,Titanium 1.5L 4x2,25690000,0,4700000,20990000,https://www.ford.cl/suvs-crossovers/territory/
-2026-11-12,FORD-TERRITORY-HEV,Ford,Territory Híbrida,Titanium Híbrida,30590000,0,4600000,25990000,https://www.ford.cl/suvs-crossovers/territory/
-2026-11-12,FORD-TERRITORY-HEV,Ford,Territory Híbrida,Platinum Híbrida,32190000,0,4600000,27590000,https://www.ford.cl/suvs-crossovers/territory/
