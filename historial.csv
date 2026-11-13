@@ -148,9 +148,9 @@ Fecha,ID modelo,Marca,Modelo,Versión,Precio lista,Bono marca,Bono financiamient
 2026-11-11,CHERY-TIGGO-4-PRO-MAX,Chery,Tiggo 4 Pro Max,1.5 MT GLS,14490000,500000,3000000,10990000,https://chery.cl/legales/terminos-y-condiciones/
 2026-11-11,CHERY-TIGGO-4-PRO-MAX,Chery,Tiggo 4 Pro Max,1.5 CVT GLS,15490000,1000000,2000000,12490000,https://chery.cl/legales/terminos-y-condiciones/
 2026-11-11,CHERY-TIGGO-8-PRO-MAX,Chery,Tiggo 8 Pro Max,DCT GLS,22990000,500000,3500000,18990000,https://chery.cl/legales/terminos-y-condiciones/
-2026-11-11,CHERY-TIGGO-4-HEV,Chery,Tiggo 4 Pro Max HEV,1.5 DHT HEV,19990000,500000,2500000,16990000,https://chery.cl/legales/terminos-y-condiciones/
-2026-11-11,CHERY-TIGGO-8-PHEV,Chery,Tiggo 8 Pro Max PHEV,1.5T DHT PHEV,28990000,500000,2300000,26190000,https://chery.cl/legales/terminos-y-condiciones/
-2026-11-11,CHERY-TIGGO-7-PHEV,Chery,Tiggo 7 Pro Max PHEV,1.5T DHT PHEV,25990000,500000,3500000,21990000,https://chery.cl/legales/terminos-y-condiciones/
+2026-11-11,CHERY-TIGGO-4-HEV,Chery,Tiggo 4 Pro Max HEV,1.5 DHT HEV,19990000,1000000,2500000,16490000,https://chery.cl/legales/terminos-y-condiciones/
+2026-11-11,CHERY-TIGGO-8-PHEV,Chery,Tiggo 8 Pro Max PHEV,1.5T DHT PHEV,28990000,1000000,2300000,25690000,https://chery.cl/legales/terminos-y-condiciones/
+2026-11-11,CHERY-TIGGO-7-PHEV,Chery,Tiggo 7 Pro Max PHEV,1.5T DHT PHEV,25990000,1000000,3500000,21490000,https://chery.cl/legales/terminos-y-condiciones/
 2026-11-11,CHERY-TIGGO-8-GLX,Chery,Tiggo 8 Pro Max,DCT GLX,25490000,500000,4000000,20990000,https://chery.cl/legales/terminos-y-condiciones/
 2026-11-11,CHERY-TIGGO-9,Chery,Tiggo 9,2.0T AT GLX AWD,29990000,500000,2500000,26990000,https://chery.cl/legales/terminos-y-condiciones/
 2026-11-11,HAVAL-H6,Haval,H6,ELITE 2WD,23190000,3000000,1200000,18990000,https://www.gwm.cl/vehiculo/haval/nuevo-h6/
@@ -370,9 +370,9 @@ Fecha,ID modelo,Marca,Modelo,Versión,Precio lista,Bono marca,Bono financiamient
 2026-11-12,CHERY-TIGGO-4-PRO-MAX,Chery,Tiggo 4 Pro Max,1.5 MT GLS,14490000,500000,3000000,10990000,https://chery.cl/legales/terminos-y-condiciones/
 2026-11-12,CHERY-TIGGO-4-PRO-MAX,Chery,Tiggo 4 Pro Max,1.5 CVT GLS,15490000,1000000,2000000,12490000,https://chery.cl/legales/terminos-y-condiciones/
 2026-11-12,CHERY-TIGGO-8-PRO-MAX,Chery,Tiggo 8 Pro Max,DCT GLS,22990000,500000,3500000,18990000,https://chery.cl/legales/terminos-y-condiciones/
-2026-11-12,CHERY-TIGGO-4-HEV,Chery,Tiggo 4 Pro Max HEV,1.5 DHT HEV,19990000,500000,2500000,16990000,https://chery.cl/legales/terminos-y-condiciones/
-2026-11-12,CHERY-TIGGO-8-PHEV,Chery,Tiggo 8 Pro Max PHEV,1.5T DHT PHEV,28990000,500000,2300000,26190000,https://chery.cl/legales/terminos-y-condiciones/
-2026-11-12,CHERY-TIGGO-7-PHEV,Chery,Tiggo 7 Pro Max PHEV,1.5T DHT PHEV,25990000,500000,3500000,21990000,https://chery.cl/legales/terminos-y-condiciones/
+2026-11-12,CHERY-TIGGO-4-HEV,Chery,Tiggo 4 Pro Max HEV,1.5 DHT HEV,19990000,1000000,2500000,16490000,https://chery.cl/legales/terminos-y-condiciones/
+2026-11-12,CHERY-TIGGO-8-PHEV,Chery,Tiggo 8 Pro Max PHEV,1.5T DHT PHEV,28990000,1000000,2300000,25690000,https://chery.cl/legales/terminos-y-condiciones/
+2026-11-12,CHERY-TIGGO-7-PHEV,Chery,Tiggo 7 Pro Max PHEV,1.5T DHT PHEV,25990000,1000000,3500000,21490000,https://chery.cl/legales/terminos-y-condiciones/
 2026-11-12,CHERY-TIGGO-8-GLX,Chery,Tiggo 8 Pro Max,DCT GLX,25490000,500000,4000000,20990000,https://chery.cl/legales/terminos-y-condiciones/
 2026-11-12,CHERY-TIGGO-9,Chery,Tiggo 9,2.0T AT GLX AWD,29990000,500000,2500000,26990000,https://chery.cl/legales/terminos-y-condiciones/
 2026-11-12,HAVAL-H6,Haval,H6,ELITE 2WD,23190000,3000000,1200000,18990000,https://www.gwm.cl/vehiculo/haval/nuevo-h6/
@@ -535,9 +535,9 @@ Fecha,ID modelo,Marca,Modelo,Versión,Precio lista,Bono marca,Bono financiamient
 2026-11-13,CHERY-TIGGO-4-PRO-MAX,Chery,Tiggo 4 Pro Max,1.5 MT GLS,14490000,500000,3000000,10990000,https://chery.cl/legales/terminos-y-condiciones/
 2026-11-13,CHERY-TIGGO-4-PRO-MAX,Chery,Tiggo 4 Pro Max,1.5 CVT GLS,15490000,1000000,2000000,12490000,https://chery.cl/legales/terminos-y-condiciones/
 2026-11-13,CHERY-TIGGO-8-PRO-MAX,Chery,Tiggo 8 Pro Max,DCT GLS,22990000,500000,3500000,18990000,https://chery.cl/legales/terminos-y-condiciones/
-2026-11-13,CHERY-TIGGO-4-HEV,Chery,Tiggo 4 Pro Max HEV,1.5 DHT HEV,19990000,500000,2500000,16990000,https://chery.cl/legales/terminos-y-condiciones/
-2026-11-13,CHERY-TIGGO-8-PHEV,Chery,Tiggo 8 Pro Max PHEV,1.5T DHT PHEV,28990000,500000,2300000,26190000,https://chery.cl/legales/terminos-y-condiciones/
-2026-11-13,CHERY-TIGGO-7-PHEV,Chery,Tiggo 7 Pro Max PHEV,1.5T DHT PHEV,25990000,500000,3500000,21990000,https://chery.cl/legales/terminos-y-condiciones/
+2026-11-13,CHERY-TIGGO-4-HEV,Chery,Tiggo 4 Pro Max HEV,1.5 DHT HEV,19990000,1000000,2500000,16490000,https://chery.cl/legales/terminos-y-condiciones/
+2026-11-13,CHERY-TIGGO-8-PHEV,Chery,Tiggo 8 Pro Max PHEV,1.5T DHT PHEV,28990000,1000000,2300000,25690000,https://chery.cl/legales/terminos-y-condiciones/
+2026-11-13,CHERY-TIGGO-7-PHEV,Chery,Tiggo 7 Pro Max PHEV,1.5T DHT PHEV,25990000,1000000,3500000,21490000,https://chery.cl/legales/terminos-y-condiciones/
 2026-11-13,CHERY-TIGGO-8-GLX,Chery,Tiggo 8 Pro Max,DCT GLX,25490000,500000,4000000,20990000,https://chery.cl/legales/terminos-y-condiciones/
 2026-11-13,CHERY-TIGGO-9,Chery,Tiggo 9,2.0T AT GLX AWD,29990000,500000,2500000,26990000,https://chery.cl/legales/terminos-y-condiciones/
 2026-11-13,HAVAL-H6,Haval,H6,ELITE 2WD,23190000,3000000,1200000,18990000,https://www.gwm.cl/vehiculo/haval/nuevo-h6/
