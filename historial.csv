@@ -576,3 +576,41 @@ Fecha,ID modelo,Marca,Modelo,Versión,Precio lista,Bono marca,Bono financiamient
 2026-11-13,EXEED-LX,EXEED,LX,1.6T DCT UNLIMITED AWD,23990000,500000,1500000,21990000,https://exeedbornformore.cl/modelos/new-exeed-lx/
 2026-11-13,TOYOTA-YARIS-CROSS-HV,Toyota,Yaris Cross Híbrido,XI 1.5 Híbrido CVT,24790000,0,1000000,23790000,https://toyota.cl/modelos/suv/yaris-cross-hybrid/
 2026-11-13,TOYOTA-YARIS-CROSS-HV,Toyota,Yaris Cross Híbrido,XG Híbrido CVT,25790000,0,300000,25490000,https://toyota.cl/modelos/suv/yaris-cross-hybrid/
+2026-11-13,JETOUR-X50,Jetour,X50,1.5L MT LUX,11490000,1700000,1000000,8790000,https://jetourchile.cl/w/x50
+2026-11-13,JETOUR-X50,Jetour,X50,1.5T 6DCT TURBO LUX,14490000,1500000,1000000,11990000,https://jetourchile.cl/w/x50
+2026-11-13,JETOUR-X70,Jetour,X70,1.5L 6MT TURBO FL,15990000,2500000,1000000,12490000,https://jetourchile.cl/w/x70
+2026-11-13,JETOUR-X70,Jetour,X70,1.5L 6DCT TURBO FL,17990000,3000000,1000000,13990000,https://jetourchile.cl/w/x70
+2026-11-13,JETOUR-DASHING,Jetour,Dashing,6MT 1.5T Special Edition FL,14990000,2500000,1000000,11490000,https://jetourchile.cl/w/dashing
+2026-11-13,JETOUR-DASHING,Jetour,Dashing,6MT 1.5L Turbo Lux FL,16490000,2000000,1000000,13490000,https://jetourchile.cl/w/dashing
+2026-11-13,JETOUR-DASHING,Jetour,Dashing,6DCT 1.5T Special Edition FL,16990000,3000000,1000000,12990000,https://jetourchile.cl/w/dashing
+2026-11-13,JETOUR-DASHING,Jetour,Dashing,6DCT 1.5T Lux,18490000,1000000,1000000,16490000,https://jetourchile.cl/w/dashing
+2026-11-13,JETOUR-DASHING,Jetour,Dashing,7DCT 1.6T Limited,20990000,2500000,1000000,17490000,https://jetourchile.cl/w/dashing
+2026-11-13,JETOUR-T1,Jetour,T1,1.5T 7DCT Lux,21990000,2700000,1300000,17990000,https://jetourchile.cl/w/t1
+2026-11-13,JETOUR-T1,Jetour,T1,2.0T 8AT Limited,25990000,2700000,1300000,21990000,https://jetourchile.cl/w/t1
+2026-11-13,JETOUR-T1-PHEV,Jetour,T1 PHEV,1.5T PHEV LIMITED,30990000,0,1000000,29990000,https://jetourchile.cl/w/t1-phev
+2026-11-13,JETOUR-T2-PHEV,Jetour,T2 PHEV,1.5T PHEV LIMITED,36490000,1000000,1000000,34490000,https://jetourchile.cl/w/t2-phev
+2026-11-13,SOUEAST-S06,Soueast,S06,1.5T 6DCT LUX,16990000,1500000,1000000,14490000,https://soueastchile.cl/s06
+2026-11-13,SOUEAST-S06,Soueast,S06,1.6T 7DCT LUX,17990000,2000000,1000000,14990000,https://soueastchile.cl/s06
+2026-11-13,SOUEAST-S06,Soueast,S06,1.6T 7DCT LIMITED,19490000,1500000,1000000,16990000,https://soueastchile.cl/s06
+2026-11-13,SOUEAST-S06-PHEV,Soueast,S06 PHEV,LUX,23990000,2000000,2000000,19990000,https://soueastchile.cl/s06-phev
+2026-11-13,SOUEAST-S06-PHEV,Soueast,S06 PHEV,LIMITED,25990000,1500000,2000000,22490000,https://soueastchile.cl/s06-phev
+2026-11-13,SOUEAST-S07,Soueast,S07,1.5T 6DCT,16990000,0,1000000,15990000,https://soueastchile.cl/s07
+2026-11-13,SOUEAST-S07,Soueast,S07,1.6T 7DCT,18490000,500000,1000000,16990000,https://soueastchile.cl/s07
+2026-11-13,SOUEAST-S08-PHEV,Soueast,S08 PHEV,LIMITED,28990000,2000000,2000000,24990000,https://soueastchile.cl/s08-phev
+2026-11-13,KAIYI-KYX7,Kaiyi,KYX7,1.6T 7DCT STD,19990000,2000000,1500000,16490000,https://kaiyi.cl/modelos/kyx7
+2026-11-13,KAIYI-KYX7,Kaiyi,KYX7,1.6T 7DCT LUX,20990000,1500000,1500000,17990000,https://kaiyi.cl/modelos/kyx7
+2026-11-13,KAIYI-KYX7,Kaiyi,KYX7,2.0T 7DCT LUX,22990000,1500000,1500000,19990000,https://kaiyi.cl/modelos/kyx7
+2026-11-13,FORD-TERRITORY,Ford,Territory,Trend 1.5 4x2,21290000,0,3300000,17990000,https://www.ford.cl/suvs-crossovers/territory/
+2026-11-13,FORD-TERRITORY,Ford,Territory,Titanium 1.5L 4x2,25690000,0,4700000,20990000,https://www.ford.cl/suvs-crossovers/territory/
+2026-11-13,FORD-TERRITORY-HEV,Ford,Territory Híbrida,Titanium Híbrida,30590000,0,4600000,25990000,https://www.ford.cl/suvs-crossovers/territory/
+2026-11-13,FORD-TERRITORY-HEV,Ford,Territory Híbrida,Platinum Híbrida,32190000,0,4600000,27590000,https://www.ford.cl/suvs-crossovers/territory/
+2026-11-13,LEAPMOTOR-C10-REEV,Leapmotor,C10 REEV,REEV Design Ultra Híbrido AT,30990000,5000000,0,25990000,https://www.leapmotorchile.cl/modelos/c10/cotiza.html
+2026-11-13,LEAPMOTOR-C10-BEV,Leapmotor,C10 BEV,BEV Design Eléctrico AT,29490000,2500000,0,26990000,https://www.leapmotorchile.cl/modelos/c10/cotiza.html#electrico
+2026-11-13,LEAPMOTOR-B10,Leapmotor,B10,BEV Life Eléctrico AT,24990000,4100000,0,20890000,https://www.leapmotorchile.cl/modelos/b10/cotiza.html#bev-life-electrico-bev-at
+2026-11-13,PEUGEOT-2008-HYBRID,Peugeot,2008 Hybrid,MCA Style Hybrid 136HP AT,23190000,5300000,0,17890000,https://cotizador.peugeot.cl/modelos/2008/cotiza.html
+2026-11-13,PEUGEOT-2008-HYBRID,Peugeot,2008 Hybrid,MCA Allure Hybrid 136HP AT,25290000,5400000,0,19890000,https://cotizador.peugeot.cl/modelos/2008/cotiza.html
+2026-11-13,PEUGEOT-2008-HYBRID,Peugeot,2008 Hybrid,MCA GT Hybrid 136HP AT,28590000,5700000,0,22890000,https://cotizador.peugeot.cl/modelos/2008/cotiza.html
+2026-11-13,PEUGEOT-2008-ELECTRIC,Peugeot,2008 Electric,MCA GT Electric,29590000,4000000,0,25590000,https://cotizador.peugeot.cl/modelos/2008/cotiza.html#mca-gt-electric
+2026-11-13,JEEP-AVENGER,Jeep,Avenger,Altitude 1.2T H DDCT6 FWD,24990000,5400000,0,19590000,https://www.jeepcotizador.com/modelos/avenger/cotiza.html
+2026-11-13,JEEP-AVENGER,Jeep,Avenger,Summit 1.2T H DDT6 FWD,27490000,5400000,0,22090000,https://www.jeepcotizador.com/modelos/avenger/cotiza.html
+2026-11-13,JEEP-AVENGER-BEV,Jeep,Avenger BEV,Summit BEV,31590000,5600000,0,25990000,https://www.jeepcotizador.com/modelos/avenger/cotiza.html#summit-bev
