@@ -411,3 +411,168 @@ Fecha,ID modelo,Marca,Modelo,Versión,Precio lista,Bono marca,Bono financiamient
 2026-11-12,EXEED-LX,EXEED,LX,1.6T DCT UNLIMITED AWD,23990000,500000,1500000,21990000,https://exeedbornformore.cl/modelos/new-exeed-lx/
 2026-11-12,TOYOTA-YARIS-CROSS-HV,Toyota,Yaris Cross Híbrido,XI 1.5 Híbrido CVT,24790000,0,1000000,23790000,https://toyota.cl/modelos/suv/yaris-cross-hybrid/
 2026-11-12,TOYOTA-YARIS-CROSS-HV,Toyota,Yaris Cross Híbrido,XG Híbrido CVT,25790000,0,300000,25490000,https://toyota.cl/modelos/suv/yaris-cross-hybrid/
+2026-11-13,MAZDA-CX-5,Mazda,CX-5,CORE 2.0 2WD 6AT,24990000,1400000,1300000,22290000,https://www.mazda.cl/vehiculo/mazda-cx-5/
+2026-11-13,MAZDA-CX-5,Mazda,CX-5,CORE 2.0 AWD 6AT,27490000,800000,1500000,25190000,https://www.mazda.cl/vehiculo/mazda-cx-5/
+2026-11-13,MAZDA-CX-30,Mazda,CX-30,ENTRY 2.0 2WD AT 7G,22990000,1000000,1000000,20990000,https://www.mazda.cl/vehiculo/mazda-cx-30/
+2026-11-13,MAZDA-CX-30,Mazda,CX-30,CORE 2.0 2WD 6MT 7G,23390000,1100000,1000000,21290000,https://www.mazda.cl/vehiculo/mazda-cx-30/
+2026-11-13,MAZDA-CX-30,Mazda,CX-30,CORE 2.0 2WD 6AT 7G,24090000,1400000,1000000,21690000,https://www.mazda.cl/vehiculo/mazda-cx-30/
+2026-11-13,DONGFENG-L7-PHEV,Dongfeng,L7 PHEV,1.5T PHEV,23990000,,,21990000,https://www.pompeyo.cl/producto/l7/
+2026-11-13,DONGFENG-L7-PHEV,Dongfeng,L7 PHEV,1.5T PHEV ELITE,,,,24990000,https://www.pompeyo.cl/producto/l7/
+2026-11-13,DONGFENG-VIGO,Dongfeng,Vigo,EV 45.0KWH SR FULL,20990000,,,19490000,https://www.pompeyo.cl/producto/vigo/
+2026-11-13,DONGFENG-VIGO,Dongfeng,Vigo,EV 51.9KWH LR ELITE,,,,21490000,https://www.pompeyo.cl/producto/vigo/
+2026-11-13,VOLVO-EX30,Volvo,EX30,E40 CORE,35900000,0,6000000,29900000,https://www.volvohomestore.cl/cl/cars/ex30
+2026-11-13,OMODA-C5,OMODA,C5,URBAN 1.5 L,13990000,0,1500000,12490000,https://www.omodajaecoo.cl/modelos/omoda-c5-2/
+2026-11-13,OMODA-C5,OMODA,C5,COMFORT 1.5T,15990000,0,2300000,13690000,https://www.omodajaecoo.cl/modelos/omoda-c5-2/
+2026-11-13,OMODA-C5,OMODA,C5,LUXURY 1.5T,17990000,0,2000000,15990000,https://www.omodajaecoo.cl/modelos/omoda-c5-2/
+2026-11-13,OMODA-C5,OMODA,C5,PRESTIGE 1.6TGDI,19490000,0,2500000,16990000,https://www.omodajaecoo.cl/modelos/omoda-c5-2/
+2026-11-13,JAECOO-7-SHS,JAECOO,7 SHS,ANDES,26990000,0,4000000,22990000,https://www.omodajaecoo.cl/modelos/jaecoo-7-shs/
+2026-11-13,JAECOO-7-SHS,JAECOO,7 SHS,PATAGONIA,28990000,0,3000000,25990000,https://www.omodajaecoo.cl/modelos/jaecoo-7-shs/
+2026-11-13,JAECOO-5,JAECOO,5,Elemental 1.5T CVT9,15990000,0,2500000,13490000,https://www.omodajaecoo.cl/modelos/jaecoo-5-2/
+2026-11-13,JAECOO-5,JAECOO,5,Prime 1.5T CVT9,17990000,0,3500000,14490000,https://www.omodajaecoo.cl/modelos/jaecoo-5-2/
+2026-11-13,JAECOO-5,JAECOO,5,Summit 1.5T CVT9,19990000,0,3500000,16490000,https://www.omodajaecoo.cl/modelos/jaecoo-5-2/
+2026-11-13,JAECOO-6,JAECOO,6,ANDES,29990000,0,7000000,22990000,https://www.omodajaecoo.cl/modelos/jaecoo-6/
+2026-11-13,JAECOO-6,JAECOO,6,PATAGONIA i-WD,32490000,0,4000000,28490000,https://www.omodajaecoo.cl/modelos/jaecoo-6/
+2026-11-13,JAECOO-7,JAECOO,7,NEW ELEMENTAL,22690000,0,5200000,17490000,https://www.omodajaecoo.cl/modelos/jaecoo-7/
+2026-11-13,JAECOO-7,JAECOO,7,NEW PRIME AWD,25690000,0,4700000,20990000,https://www.omodajaecoo.cl/modelos/jaecoo-7/
+2026-11-13,JAECOO-8,JAECOO,8,ANDES,30990000,0,2000000,28990000,https://www.omodajaecoo.cl/modelos/jaecoo-8/
+2026-11-13,OMODA-C7,OMODA,C7,1.6T DCT Comfort,20490000,0,2500000,17990000,https://www.omodajaecoo.cl/modelos/omoda-c7/
+2026-11-13,OMODA-C7,OMODA,C7,1.6T DCT Luxury,22490000,0,3000000,19490000,https://www.omodajaecoo.cl/modelos/omoda-c7/
+2026-11-13,OMODA-C7,OMODA,C7,1.6T DCT AWD Prestige,24990000,0,3500000,21490000,https://www.omodajaecoo.cl/modelos/omoda-c7/
+2026-11-13,MG-ZS,MG,ZS,1.5L MT STD,15890000,3500000,3000000,9390000,https://www.mgmotor.cl/model/NEW-MG-ZS/2025
+2026-11-13,MG-ZS,MG,ZS,1.5L CVT STD,16490000,3500000,3000000,9990000,https://www.mgmotor.cl/model/NEW-MG-ZS/2025
+2026-11-13,MG-ZS,MG,ZS,1.5L MT COM,16890000,3500000,3000000,10390000,https://www.mgmotor.cl/model/NEW-MG-ZS/2025
+2026-11-13,MG-ZS,MG,ZS,1.5L CVT COM,17790000,3500000,3000000,11290000,https://www.mgmotor.cl/model/NEW-MG-ZS/2025
+2026-11-13,MG-ZS,MG,ZS,1.5T Turbo CVT LUX,20490000,3500000,3000000,13990000,https://www.mgmotor.cl/model/NEW-MG-ZS/2025
+2026-11-13,MG-ZS-HEV,MG,ZS HEV,1.5L AT COM HEV,20990000,3000000,2000000,15990000,https://www.mgmotor.cl/model/MG-ZS-HEV
+2026-11-13,MG-ZS-HEV,MG,ZS HEV,1.5L DLX HEV,21990000,2500000,2000000,17490000,https://www.mgmotor.cl/model/MG-ZS-HEV
+2026-11-13,MG-ZS-EV,MG,ZS EV,DLX 72KWh,33990000,6000000,1000000,26990000,https://www.mgmotor.cl/model/MG-ZS-EV
+2026-11-13,MG-S5-EV,MG,S5 EV,49kW COM,25490000,2000000,3000000,20490000,https://www.mgmotor.cl/model/MGS5-EV
+2026-11-13,MG-S5-EV,MG,S5 EV,49kW LUX,26490000,2000000,3000000,21490000,https://www.mgmotor.cl/model/MGS5-EV
+2026-11-13,MG-S5-EV,MG,S5 EV,62kW LUX,28490000,2000000,3000000,23490000,https://www.mgmotor.cl/model/MGS5-EV
+2026-11-13,OMODA-C5-SHS,OMODA,C5 SHS,COMFORT 1.5T DHT,19490000,0,500000,18990000,https://www.omodajaecoo.cl/modelos/omoda-c5-shs/
+2026-11-13,OMODA-C5-SHS,OMODA,C5 SHS,LUXURY 1.5T DHT,21490000,0,500000,20990000,https://www.omodajaecoo.cl/modelos/omoda-c5-shs/
+2026-11-13,CHEVROLET-CAPTIVA-EV,Chevrolet,Captiva EV,PREMIER FWD T,29290000,0,1300000,27990000,https://www.coseche.com/marcas/chevrolet/nuevo/chevrolet-captiva-ev
+2026-11-13,CHEVROLET-CAPTIVA-EV,Chevrolet,Captiva EV,PREMIER LI FWD T,29290000,0,1300000,27990000,https://www.coseche.com/marcas/chevrolet/nuevo/chevrolet-captiva-ev
+2026-11-13,CHEVROLET-CAPTIVA-PHEV,Chevrolet,Captiva PHEV,1.5L PREMIER LI FWD T,26290000,0,2300000,23990000,https://www.coseche.com/marcas/chevrolet/nuevo/chevrolet-captiva-phev
+2026-11-13,CHEVROLET-CAPTIVA-PHEV,Chevrolet,Captiva PHEV,1.5L PREMIER FWD T,26290000,0,2300000,23990000,https://www.coseche.com/marcas/chevrolet/nuevo/chevrolet-captiva-phev
+2026-11-13,CHEVROLET-TRACKER,Chevrolet,Tracker,1.2T LTZ AT T,19490000,0,1000000,18490000,https://www.coseche.com/marcas/chevrolet/nuevo/chevrolet-tracker
+2026-11-13,CHEVROLET-TRACKER,Chevrolet,Tracker,1.2T PREMIER AT T,20990000,0,1000000,19990000,https://www.coseche.com/marcas/chevrolet/nuevo/chevrolet-tracker
+2026-11-13,CHEVROLET-NEW-GROOVE,Chevrolet,New Groove,1.5L LTZ MT T,14090000,0,1600000,12490000,https://www.coseche.com/marcas/chevrolet/nuevo/chevrolet-new-groove
+2026-11-13,CHEVROLET-NEW-GROOVE,Chevrolet,New Groove,1.5L LTZ MT V,14490000,0,1500000,12990000,https://www.coseche.com/marcas/chevrolet/nuevo/chevrolet-new-groove
+2026-11-13,CHEVROLET-NEW-GROOVE,Chevrolet,New Groove,1.5L RS MT T,14490000,0,1200000,13290000,https://www.coseche.com/marcas/chevrolet/nuevo/chevrolet-new-groove
+2026-11-13,CHEVROLET-NEW-GROOVE,Chevrolet,New Groove,1.5L RS MT V,15490000,0,1500000,13990000,https://www.coseche.com/marcas/chevrolet/nuevo/chevrolet-new-groove
+2026-11-13,CHEVROLET-NEW-GROOVE,Chevrolet,New Groove,1.5T RS CVT T,16490000,0,1200000,15290000,https://www.coseche.com/marcas/chevrolet/nuevo/chevrolet-new-groove
+2026-11-13,CHEVROLET-NEW-GROOVE,Chevrolet,New Groove,1.5T RS CVT V,17490000,0,1500000,15990000,https://www.coseche.com/marcas/chevrolet/nuevo/chevrolet-new-groove
+2026-11-13,CHEVROLET-SPARK-EUV,Chevrolet,Spark EUV,ACTIV LI T,21790000,0,2800000,18990000,https://www.coseche.com/marcas/chevrolet/nuevo/chevrolet-spark-euv
+2026-11-13,CHEVROLET-SPARK-EUV,Chevrolet,Spark EUV,ACTIV T,21790000,0,2800000,18990000,https://www.coseche.com/marcas/chevrolet/nuevo/chevrolet-spark-euv
+2026-11-13,CHEVROLET-SPARK-EUV,Chevrolet,Spark EUV,ACTIV BI V,21990000,0,2200000,19790000,https://www.coseche.com/marcas/chevrolet/nuevo/chevrolet-spark-euv
+2026-11-13,GEELY-NEW-COOLRAY,Geely,New Coolray,Comfort,15490000,500000,1000000,13990000,https://www.geely.cl/modelos/new-coolray/
+2026-11-13,GEELY-NEW-COOLRAY,Geely,New Coolray,Sport,17990000,500000,1000000,16490000,https://www.geely.cl/modelos/new-coolray/
+2026-11-13,GEELY-STARRAY,Geely,Starray,Exclusive,23990000,2000000,2000000,19990000,https://www.geely.cl/modelos/starray/
+2026-11-13,GEELY-STARRAY,Geely,Starray,Signature,25690000,1500000,1500000,22690000,https://www.geely.cl/modelos/starray/
+2026-11-13,GEELY-EX5-EMI,Geely,EX5 EM-i,Pro,23990000,500000,1000000,22490000,https://www.geely.cl/modelos/geely-ex5-em-i/
+2026-11-13,GEELY-EX5-EMI,Geely,EX5 EM-i,Max,26490000,500000,1500000,24490000,https://www.geely.cl/modelos/geely-ex5-em-i/
+2026-11-13,GEELY-EX5-EMI,Geely,EX5 EM-i,Max+,28990000,500000,1500000,26990000,https://www.geely.cl/modelos/geely-ex5-em-i/
+2026-11-13,GEELY-CITYRAY,Geely,Cityray,Comfort,17890000,1000000,2000000,14890000,https://www.geely.cl/modelos/cityray/
+2026-11-13,GEELY-CITYRAY,Geely,Cityray,Exclusive,19490000,0,2500000,16990000,https://www.geely.cl/modelos/cityray/
+2026-11-13,GEELY-CITYRAY,Geely,Cityray,Signature,20890000,0,3000000,17890000,https://www.geely.cl/modelos/cityray/
+2026-11-13,GEELY-EX5,Geely,EX5,Pro,30990000,2000000,2000000,26990000,https://www.geely.cl/modelos/ex5/
+2026-11-13,GEELY-EX5,Geely,EX5,Max,33990000,2000000,2000000,29990000,https://www.geely.cl/modelos/ex5/
+2026-11-13,GEELY-OKAVANGO,Geely,Okavango,Exclusive,24690000,1000000,2000000,21690000,https://www.geely.cl/modelos/okavango/
+2026-11-13,GEELY-OKAVANGO,Geely,Okavango,Signature,26690000,1000000,2000000,23690000,https://www.geely.cl/modelos/okavango/
+2026-11-13,CHANGAN-NEW-CS55-PLUS,Changan,New CS55 Plus,COMFORT AT,18590000,3600000,1000000,13990000,https://www.changan.cl/vehiculo/cs55-plus/
+2026-11-13,CHANGAN-NEW-CS55-PLUS,Changan,New CS55 Plus,LUXURY AT,19590000,2700000,1100000,15790000,https://www.changan.cl/vehiculo/cs55-plus/
+2026-11-13,CHANGAN-NEW-CS55-PLUS,Changan,New CS55 Plus,ELITE AT,21590000,2300000,1300000,17990000,https://www.changan.cl/vehiculo/cs55-plus/
+2026-11-13,CHANGAN-CS35-MAX,Changan,CS35 Max,Comfort MT,14490000,1600000,900000,11990000,https://www.changan.cl/vehiculo/cs35-max/
+2026-11-13,CHANGAN-CS35-MAX,Changan,CS35 Max,Comfort AT,16390000,2200000,800000,13390000,https://www.changan.cl/vehiculo/cs35-max/
+2026-11-13,CHANGAN-CS35-MAX,Changan,CS35 Max,Elite AT,17290000,1500000,1000000,14790000,https://www.changan.cl/vehiculo/cs35-max/
+2026-11-13,CHANGAN-CS35-MAX,Changan,CS35 Max,Deluxe AT,18890000,1700000,1200000,15990000,https://www.changan.cl/vehiculo/cs35-max/
+2026-11-13,CHANGAN-UNI-K,Changan,UNI-K,Luxury AT,26990000,2200000,1800000,22990000,https://www.changan.cl/vehiculo/uni-k/
+2026-11-13,CHANGAN-UNI-K,Changan,UNI-K,Elite AT,29990000,2000000,2000000,25990000,https://www.changan.cl/vehiculo/uni-k/
+2026-11-13,CHANGAN-UNI-T,Changan,UNI-T,Elite,26290000,5800000,1500000,18990000,https://www.changan.cl/vehiculo/uni-t/
+2026-11-13,CHANGAN-CS55-PLUS-IDD,Changan,CS55 Plus iDD,Luxury,23990000,4100000,1400000,18490000,https://www.changan.cl/vehiculo/cs55-plus-idd/
+2026-11-13,CHANGAN-CS55-PLUS-IDD,Changan,CS55 Plus iDD,Elite,25990000,4500000,1500000,19990000,https://www.changan.cl/vehiculo/cs55-plus-idd/
+2026-11-13,CHANGAN-X7-PLUS,Changan,X7 Plus,Luxury MT,17990000,3200000,1000000,13790000,https://www.changan.cl/vehiculo/x7-plus/
+2026-11-13,CHANGAN-X7-PLUS,Changan,X7 Plus,Elite MT,18490000,2400000,1100000,14990000,https://www.changan.cl/vehiculo/x7-plus/
+2026-11-13,CHANGAN-X7-PLUS,Changan,X7 Plus,Luxury AT,18990000,2300000,1000000,15690000,https://www.changan.cl/vehiculo/x7-plus/
+2026-11-13,CHANGAN-X7-PLUS,Changan,X7 Plus,Elite AT,19990000,2300000,1200000,16490000,https://www.changan.cl/vehiculo/x7-plus/
+2026-11-13,VW-TERA,Volkswagen,Tera,Trend MT,16590000,1050000,1250000,14290000,https://www.volkswagen.cl/tera/tera
+2026-11-13,VW-TERA,Volkswagen,Tera,Comfort MT,17490000,1000000,1200000,15290000,https://www.volkswagen.cl/tera/tera
+2026-11-13,VW-TERA,Volkswagen,Tera,Comfort AT,18990000,1400000,1300000,16290000,https://www.volkswagen.cl/tera/tera
+2026-11-13,HONDA-WR-V,Honda,WR-V,EX,22990000,1000000,2000000,19990000,https://autos.honda.cl/suv/wr-v/
+2026-11-13,HONDA-WR-V,Honda,WR-V,Touring,23990000,1000000,1000000,21990000,https://autos.honda.cl/suv/wr-v/
+2026-11-13,SUBARU-CROSSTREK,Subaru,Crosstrek,2.0I AWD CVT,26690000,1700000,1200000,23790000,https://www.subaru.cl/vehiculos/all-new-crosstrek/
+2026-11-13,HYUNDAI-TUCSON,Hyundai,Tucson,2.0 MT GO FL,24390000,0,3600000,20790000,https://www.hyundai.cl/nuestros-modelos/suv/the-new-tucson/
+2026-11-13,HYUNDAI-TUCSON,Hyundai,Tucson,2.0 AT PLUS FL,25990000,0,3500000,22490000,https://www.hyundai.cl/nuestros-modelos/suv/the-new-tucson/
+2026-11-13,HYUNDAI-TUCSON,Hyundai,Tucson,1.5T AT 4WD PLUS FL,30190000,0,3200000,26990000,https://www.hyundai.cl/nuestros-modelos/suv/the-new-tucson/
+2026-11-13,HYUNDAI-TUCSON,Hyundai,Tucson,2.0 AT BLACKLINE FL,30190000,0,3600000,26590000,https://www.hyundai.cl/nuestros-modelos/suv/the-new-tucson/
+2026-11-13,MITSUBISHI-OUTLANDER,Mitsubishi,Outlander,4x2 AT GL,28990000,,,23990000,https://mitsubishi-motors.cl/modelos/outlander/
+2026-11-13,MITSUBISHI-OUTLANDER,Mitsubishi,Outlander,4X2 AT GLX,31990000,,,26990000,https://mitsubishi-motors.cl/modelos/outlander/
+2026-11-13,MITSUBISHI-OUTLANDER,Mitsubishi,Outlander,4X4 AT GLS,35490000,,,30990000,https://mitsubishi-motors.cl/modelos/outlander/
+2026-11-13,DEEPAL-S07-REEV,Deepal,S07,REEV,32990000,1700000,2300000,28990000,https://www.deepalautos.cl/vehiculo/s07
+2026-11-13,DEEPAL-S05-REEV,Deepal,S05,REEV,29990000,3100000,1900000,24990000,https://www.deepalautos.cl/vehiculo/s05
+2026-11-13,BYD-YUAN-PRO,BYD,Yuan Pro,GL,19990000,500000,1000000,18490000,https://astararetail.cl/byd-yuan-pro/
+2026-11-13,BYD-YUAN-PRO,BYD,Yuan Pro,GS,22990000,500000,1000000,21490000,https://astararetail.cl/byd-yuan-pro/
+2026-11-13,BYD-SONG-PRO,BYD,Song Pro,GL,24490000,2500000,1000000,20990000,https://astararetail.cl/byd-song-pro/
+2026-11-13,BYD-SONG-PRO,BYD,Song Pro,GS,26490000,2500000,1000000,22990000,https://astararetail.cl/byd-song-pro/
+2026-11-13,BYD-SONG-PLUS,BYD,Song Plus,GL,29490000,2500000,1000000,25990000,https://astararetail.cl/byd-song-plus/
+2026-11-13,BYD-SONG-PLUS,BYD,Song Plus,GS,31490000,2500000,1000000,27990000,https://astararetail.cl/byd-song-plus/
+2026-11-13,BYD-YUAN-PLUS,BYD,Yuan Plus,GS,25490000,2500000,1000000,21990000,https://astararetail.cl/byd-yuan-plus/
+2026-11-13,SUZUKI-FRONX,Suzuki,Fronx,1.5 GL,16990000,1500000,900000,14590000,https://www.suzuki.cl/vehiculo/fronx/
+2026-11-13,SUZUKI-FRONX,Suzuki,Fronx,1.5 GL AT,18590000,1500000,900000,16190000,https://www.suzuki.cl/vehiculo/fronx/
+2026-11-13,SUZUKI-FRONX,Suzuki,Fronx,1.5 GLX,18690000,1500000,900000,16290000,https://www.suzuki.cl/vehiculo/fronx/
+2026-11-13,SUZUKI-FRONX,Suzuki,Fronx,1.5 GLX AT,20290000,1500000,900000,17890000,https://www.suzuki.cl/vehiculo/fronx/
+2026-11-13,SUZUKI-ACROSS-HYBRID,Suzuki,Across Hybrid,GL MT,19890000,1500000,1200000,17190000,https://www.suzuki.cl/vehiculo/across-hybrid/
+2026-11-13,SUZUKI-ACROSS-HYBRID,Suzuki,Across Hybrid,GL AT,21390000,1500000,1200000,18690000,https://www.suzuki.cl/vehiculo/across-hybrid/
+2026-11-13,SUZUKI-ACROSS-HYBRID,Suzuki,Across Hybrid,GLX MT,21190000,1500000,1200000,18490000,https://www.suzuki.cl/vehiculo/across-hybrid/
+2026-11-13,SUZUKI-ACROSS-HYBRID,Suzuki,Across Hybrid,GLX AT,23290000,1500000,1200000,20590000,https://www.suzuki.cl/vehiculo/across-hybrid/
+2026-11-13,SUZUKI-E-VITARA,Suzuki,e Vitara,GL,30990000,2000000,1000000,27990000,https://www.suzuki.cl/vehiculo/e-vitara/
+2026-11-13,SUZUKI-E-VITARA,Suzuki,e Vitara,GLX 4WD,35990000,2000000,1000000,32990000,https://www.suzuki.cl/vehiculo/e-vitara/
+2026-11-13,TOYOTA-RAIZE,Toyota,Raize,I MT,13990000,200000,1300000,12490000,https://toyota.cl/terminos-y-condiciones-comerciales-por-modelo/
+2026-11-13,TOYOTA-RAIZE,Toyota,Raize,E MT,15990000,200000,1300000,14490000,https://toyota.cl/terminos-y-condiciones-comerciales-por-modelo/
+2026-11-13,TOYOTA-RAIZE,Toyota,Raize,E CVT,16990000,700000,1500000,14790000,https://toyota.cl/terminos-y-condiciones-comerciales-por-modelo/
+2026-11-13,TOYOTA-RAIZE,Toyota,Raize,G CVT,18490000,400000,600000,17490000,https://toyota.cl/terminos-y-condiciones-comerciales-por-modelo/
+2026-11-13,CHERY-TIGGO-4-PRO-MAX,Chery,Tiggo 4 Pro Max,1.5 MT GLS,14490000,500000,3000000,10990000,https://chery.cl/legales/terminos-y-condiciones/
+2026-11-13,CHERY-TIGGO-4-PRO-MAX,Chery,Tiggo 4 Pro Max,1.5 CVT GLS,15490000,1000000,2000000,12490000,https://chery.cl/legales/terminos-y-condiciones/
+2026-11-13,CHERY-TIGGO-8-PRO-MAX,Chery,Tiggo 8 Pro Max,DCT GLS,22990000,500000,3500000,18990000,https://chery.cl/legales/terminos-y-condiciones/
+2026-11-13,CHERY-TIGGO-4-HEV,Chery,Tiggo 4 Pro Max HEV,1.5 DHT HEV,19990000,500000,2500000,16990000,https://chery.cl/legales/terminos-y-condiciones/
+2026-11-13,CHERY-TIGGO-8-PHEV,Chery,Tiggo 8 Pro Max PHEV,1.5T DHT PHEV,28990000,500000,2300000,26190000,https://chery.cl/legales/terminos-y-condiciones/
+2026-11-13,CHERY-TIGGO-7-PHEV,Chery,Tiggo 7 Pro Max PHEV,1.5T DHT PHEV,25990000,500000,3500000,21990000,https://chery.cl/legales/terminos-y-condiciones/
+2026-11-13,CHERY-TIGGO-8-GLX,Chery,Tiggo 8 Pro Max,DCT GLX,25490000,500000,4000000,20990000,https://chery.cl/legales/terminos-y-condiciones/
+2026-11-13,CHERY-TIGGO-9,Chery,Tiggo 9,2.0T AT GLX AWD,29990000,500000,2500000,26990000,https://chery.cl/legales/terminos-y-condiciones/
+2026-11-13,HAVAL-H6,Haval,H6,ELITE 2WD,23190000,3000000,1200000,18990000,https://www.gwm.cl/vehiculo/haval/nuevo-h6/
+2026-11-13,HAVAL-H6,Haval,H6,DELUXE 2WD,25290000,2300000,1200000,21790000,https://www.gwm.cl/vehiculo/haval/nuevo-h6/
+2026-11-13,HAVAL-H6,Haval,H6,DELUXE 4WD,26190000,2200000,1200000,22790000,https://www.gwm.cl/vehiculo/haval/nuevo-h6/
+2026-11-13,HAVAL-H6-HEV,Haval,H6 HEV,HÍBRIDA DELUXE 2WD,27490000,2000000,1200000,24290000,https://www.gwm.cl/vehiculo/haval/nuevo-h6/
+2026-11-13,HAVAL-H6-PHEV,Haval,H6 PHEV,PHEV DELUXE 2WD,31990000,2800000,1200000,27990000,https://www.gwm.cl/vehiculo/haval/nuevo-h6/
+2026-11-13,HAVAL-H6-PHEV,Haval,H6 PHEV,PHEV DELUXE 4WD,33990000,2800000,1200000,29990000,https://www.gwm.cl/vehiculo/haval/nuevo-h6/
+2026-11-13,HAVAL-JOLION,Haval,Jolion,4X2 ACTIVE MT,17890000,4000000,1300000,12590000,https://www.gwm.cl/vehiculo/haval/nuevo-jolion/
+2026-11-13,HAVAL-JOLION,Haval,Jolion,4X2 ELITE MT,18790000,3600000,1300000,13890000,https://www.gwm.cl/vehiculo/haval/nuevo-jolion/
+2026-11-13,HAVAL-JOLION,Haval,Jolion,4X2 ELITE AT,19790000,3600000,1300000,14890000,https://www.gwm.cl/vehiculo/haval/nuevo-jolion/
+2026-11-13,HAVAL-JOLION,Haval,Jolion,4X2 DELUXE AT,21090000,3600000,1300000,16190000,https://www.gwm.cl/vehiculo/haval/nuevo-jolion/
+2026-11-13,HAVAL-JOLION-PRO,Haval,Jolion Pro,4X2 ELITE AT,20590000,3300000,1300000,15990000,https://www.gwm.cl/vehiculo/haval/jolion-pro/
+2026-11-13,HAVAL-JOLION-PRO,Haval,Jolion Pro,4X2 DELUXE AT,21890000,3700000,1300000,16590000,https://www.gwm.cl/vehiculo/haval/jolion-pro/
+2026-11-13,HAVAL-JOLION-PRO-HEV,Haval,Jolion Pro HEV,HÍBRIDO 4X2 ELITE AT,26490000,4300000,1200000,20990000,https://www.gwm.cl/vehiculo/haval/jolion-pro/
+2026-11-13,HAVAL-JOLION-PRO-HEV,Haval,Jolion Pro HEV,HÍBRIDO 4X2 DELUXE AT,28490000,4100000,1200000,23190000,https://www.gwm.cl/vehiculo/haval/jolion-pro/
+2026-11-13,HAVAL-JOLION-HEV,Haval,Jolion HEV,2WD ELITE AT HÍBRIDO,24290000,3100000,1200000,19990000,https://www.gwm.cl/vehiculo/haval/jolion-hev/
+2026-11-13,HAVAL-JOLION-HEV,Haval,Jolion HEV,2WD DELUXE AT HÍBRIDO,26790000,3900000,1200000,21690000,https://www.gwm.cl/vehiculo/haval/jolion-hev/
+2026-11-13,KIA-SONET,Kia,Sonet,LX 1.5L 6MT,15990000,700000,1300000,13990000,https://www.kia.cl/promociones/kia-sonet.html
+2026-11-13,KIA-SONET,Kia,Sonet,LX 1.5L IVT,17490000,900000,1300000,15290000,https://www.kia.cl/promociones/kia-sonet.html
+2026-11-13,KIA-SONET,Kia,Sonet,EX 1.5L 6MT HIGH,16990000,400000,1300000,15290000,https://www.kia.cl/promociones/kia-sonet.html
+2026-11-13,KIA-SONET,Kia,Sonet,EX 1.5L IVT HIGH,18490000,700000,1300000,16490000,https://www.kia.cl/promociones/kia-sonet.html
+2026-11-13,KIA-SONET,Kia,Sonet,EX 1.5L 6MT L FULL,17990000,200000,1300000,16490000,https://www.kia.cl/promociones/kia-sonet.html
+2026-11-13,KIA-SONET,Kia,Sonet,EX 1.5L IVT L FULL,19490000,700000,1300000,17490000,https://www.kia.cl/promociones/kia-sonet.html
+2026-11-13,KIA-SPORTAGE,Kia,Sportage,LX 2.0L 6MT GSL,24990000,1500000,1500000,21990000,https://www.kia.cl/promociones/kia-sportage.html
+2026-11-13,KIA-SPORTAGE,Kia,Sportage,LX 2.0L 6AT GSL,26990000,1000000,1500000,24490000,https://www.kia.cl/promociones/kia-sportage.html
+2026-11-13,DFSK-600-PHEV,DFSK,600 PHEV,ELITE,24990000,3000000,2500000,19490000,https://www.dfsk.cl/pasajeros/vehiculo/600-phev/
+2026-11-13,DFSK-600-PHEV,DFSK,600 PHEV,ELITE PRO,28990000,3000000,4000000,21990000,https://www.dfsk.cl/pasajeros/vehiculo/600-phev/
+2026-11-13,DFSK-E5-PLUS,DFSK,E5 Plus,E5 PLUS,29990000,3000000,3000000,23990000,https://www.dfsk.cl/vehiculos/dfsk/e5-plus/
+2026-11-13,KGM-REXTON,KGM,Rexton,LX 2.2TD 8AT 2WD 2AB,32990000,3500000,1000000,28490000,https://www.kgmauto.cl/modelos/rexton/
+2026-11-13,KGM-REXTON,KGM,Rexton,GLX 2.2TD 8AT 2WD 6AB,36190000,3700000,1000000,31490000,https://www.kgmauto.cl/modelos/rexton/
+2026-11-13,GAC-GS8,GAC,GS8,2.0 AT 2WD,25990000,0,3000000,22990000,https://www.gacautos.cl/cotizar/?modelo=gac-gs8
+2026-11-13,GAC-GS8,GAC,GS8,GX 2.0 AT 4WD,32990000,0,3000000,29990000,https://www.gacautos.cl/cotizar/?modelo=gac-gs8
+2026-11-13,EXEED-LX,EXEED,LX,1.6T DCT ADVANCED,19990000,1500000,1500000,16990000,https://exeedbornformore.cl/modelos/new-exeed-lx/
+2026-11-13,EXEED-LX,EXEED,LX,1.6T DCT UNLIMITED,20990000,1000000,1500000,18490000,https://exeedbornformore.cl/modelos/new-exeed-lx/
+2026-11-13,EXEED-LX,EXEED,LX,1.6T DCT UNLIMITED AWD,23990000,500000,1500000,21990000,https://exeedbornformore.cl/modelos/new-exeed-lx/
+2026-11-13,TOYOTA-YARIS-CROSS-HV,Toyota,Yaris Cross Híbrido,XI 1.5 Híbrido CVT,24790000,0,1000000,23790000,https://toyota.cl/modelos/suv/yaris-cross-hybrid/
+2026-11-13,TOYOTA-YARIS-CROSS-HV,Toyota,Yaris Cross Híbrido,XG Híbrido CVT,25790000,0,300000,25490000,https://toyota.cl/modelos/suv/yaris-cross-hybrid/
