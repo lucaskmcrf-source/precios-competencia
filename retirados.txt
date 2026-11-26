@@ -3,3 +3,4 @@ CHANGAN-CS35-PLUS  # descontinuado (13-11-2026)
 CHANGAN-CS55-PLUS  # descontinuado (13-11-2026)
 GEELY-STARRAY  # reemplazado por GEELY-NEW-STARRAY, facelift (25-11-2026)
 GEELY-CITYRAY  # reemplazado por GEELY-NEW-CITYRAY, facelift (25-11-2026)
+CHANGAN-STAR-TRUCK  # sacado de C5 SHS por decisión de Lucas (26-11-2026), no es HEV
