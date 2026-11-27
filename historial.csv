@@ -2731,3 +2731,107 @@ Fecha,ID modelo,Marca,Modelo,Versión,Precio lista,Bono marca,Bono financiamient
 2026-11-27,KIA-SONET,Kia,Sonet,EX 1.5L IVT L FULL,19990000,1200000,0,18790000,https://www.kia.cl/promociones/kia-sonet.html
 2026-11-27,KIA-SPORTAGE,Kia,Sportage,LX 2.0L 6MT GSL,25990000,2500000,0,23490000,https://www.kia.cl/promociones/kia-sportage.html
 2026-11-27,KIA-SPORTAGE,Kia,Sportage,LX 2.0L 6AT GSL,28490000,2500000,0,25990000,https://www.kia.cl/promociones/kia-sportage.html
+2026-11-27,CHANGAN-CS75-PLUS,Changan,CS75 Plus,LUXURY AT,22990000,1600000,1400000,19990000,https://www.changan.cl/vehiculo/cs75-plus/
+2026-11-27,CHANGAN-CS75-PLUS,Changan,CS75 Plus,ELITE AT,24490000,1500000,1500000,21490000,https://www.changan.cl/vehiculo/cs75-plus/
+2026-11-27,GEELY-COOLRAY-LITE,Geely,Coolray Lite,Pop MT,12490000,1500000,1500000,9490000,https://www.geely.cl/modelos/coolray-lite/
+2026-11-27,GEELY-COOLRAY-LITE,Geely,Coolray Lite,Pop MT +,13290000,2100000,1500000,9690000,https://www.geely.cl/modelos/coolray-lite/
+2026-11-27,GEELY-COOLRAY-LITE,Geely,Coolray Lite,Prime CVT,13490000,500000,1500000,11490000,https://www.geely.cl/modelos/coolray-lite/
+2026-11-27,GEELY-COOLRAY-LITE,Geely,Coolray Lite,Prime CVT +,14290000,800000,1500000,11990000,https://www.geely.cl/modelos/coolray-lite/
+2026-11-27,BAIC-X35,BAIC,X35,X35 Fashion 1.5T+6MT,13090000,0,3600000,9490000,https://www.baic.cl/modelos/x35-suv/
+2026-11-27,BAIC-X35,BAIC,X35,X35 Fashion Plus 1.5T+6MT,13590000,0,2600000,10990000,https://www.baic.cl/modelos/x35-suv/
+2026-11-27,BAIC-X35,BAIC,X35,X35 Fashion 1.5T+CVT,14590000,0,3000000,11590000,https://www.baic.cl/modelos/x35-suv/
+2026-11-27,BAIC-X35,BAIC,X35,X35 Luxury 1.5T+CVT,15990000,0,3000000,12990000,https://www.baic.cl/modelos/x35-suv/
+2026-11-27,BAIC-X55,BAIC,X55,X55 LV2,18490000,0,2500000,15990000,https://www.baic.cl/modelos/x55-suv/
+2026-11-27,BAIC-X55,BAIC,X55,X55 LV3,19590000,0,3000000,16590000,https://www.baic.cl/modelos/x55-suv/
+2026-11-27,BAIC-X55,BAIC,X55,X55 LV4,21190000,0,2500000,18690000,https://www.baic.cl/modelos/x55-suv/
+2026-11-27,BAIC-X7,BAIC,X7,X7 1.5T+7DCT Comfort,23990000,0,2500000,21490000,https://www.baic.cl/modelos/x7-suv/
+2026-11-27,BAIC-X7,BAIC,X7,X7 1.5T+7DCT Luxury,24990000,0,2500000,22490000,https://www.baic.cl/modelos/x7-suv/
+2026-11-27,BAIC-X7,BAIC,X7,X7 1.5T+7DCT Exclusive,25490000,0,2500000,22990000,https://www.baic.cl/modelos/x7-suv/
+2026-11-27,BAIC-BJ40,BAIC,BJ40,BJ40 (BENCINA),30490000,0,1000000,29490000,https://www.baic.cl/modelos/bj40-4x4/
+2026-11-27,BAIC-BJ40,BAIC,BJ40,BJ40 (DIESEL),31990000,0,1000000,30990000,https://www.baic.cl/modelos/bj40-4x4/
+2026-11-27,BAIC-BJ40-PRO,BAIC,BJ40 PRO,BJ40 PRO 2.0T Gasolina,38990000,0,3500000,35490000,https://www.baic.cl/modelos/bj40-pro-4x4/
+2026-11-27,BAIC-BJ40-PRO,BAIC,BJ40 PRO,BJ40 PRO 2.0T Diesel,39990000,0,3500000,36490000,https://www.baic.cl/modelos/bj40-pro-4x4/
+2026-11-27,HAVAL-H7,Haval,H7,ELITE 2WD,25390000,2500000,1000000,21890000,https://www.gwm.cl/vehiculo/haval/h7/
+2026-11-27,HAVAL-H7,Haval,H7,DELUXE 4WD,29290000,2200000,1000000,26090000,https://www.gwm.cl/vehiculo/haval/h7/
+2026-11-27,HAVAL-H6-GT,Haval,H6 GT,4X2 ELITE,25790000,2500000,1500000,21790000,https://www.gwm.cl/vehiculo/haval/h6-gt/
+2026-11-27,HAVAL-H6-GT,Haval,H6 GT,4X4 DELUXE,29590000,3300000,1500000,24790000,https://www.gwm.cl/vehiculo/haval/h6-gt/
+2026-11-27,HAVAL-H7-MAX,Haval,H7 Max,HÍBRIDA 4WD DELUXE,30690000,2000000,1200000,27490000,https://www.gwm.cl/vehiculo/haval/nuevo-h7-max/
+2026-11-27,HAVAL-H7-MAX,Haval,H7 Max,HÍBRIDA ENCHUFABLE 4WD DELUXE,34190000,2000000,1200000,30990000,https://www.gwm.cl/vehiculo/haval/nuevo-h7-max/
+2026-11-27,HAVAL-JOLION-MAX,Haval,Jolion Max,ELITE 2WD AT,21190000,4000000,1000000,16190000,https://www.gwm.cl/vehiculo/haval/nuevo-jolion-max/
+2026-11-27,HAVAL-JOLION-MAX,Haval,Jolion Max,HIGH POWER ELITE 2WD AT,22190000,4000000,1000000,17190000,https://www.gwm.cl/vehiculo/haval/nuevo-jolion-max/
+2026-11-27,HAVAL-JOLION-MAX,Haval,Jolion Max,HIGH POWER DELUXE 2WD,23190000,3900000,1000000,18290000,https://www.gwm.cl/vehiculo/haval/nuevo-jolion-max/
+2026-11-27,DONGFENG-MAGE,Dongfeng,Mage,MAGE E1,15590000,1000000,600000,13990000,https://cidef.cl/modelo/mage/
+2026-11-27,DONGFENG-MAGE,Dongfeng,Mage,MAGE E2,16990000,2400000,600000,13990000,https://cidef.cl/modelo/mage/
+2026-11-27,DONGFENG-MAGE,Dongfeng,Mage,MAGE E2 BICOLOR,17290000,2700000,600000,13990000,https://cidef.cl/modelo/mage/
+2026-11-27,DONGFENG-NEW-SX6,Dongfeng,New SX6,NEW SX6 1.6,11990000,1400000,600000,9990000,https://cidef.cl/modelo/new-sx6/
+2026-11-27,DONGFENG-MAGE-EV,Dongfeng,Mage EV,MAGE EV,21990000,1000000,1000000,19990000,https://cidef.cl/modelo/mage-ev/
+2026-11-27,DONGFENG-T5,Dongfeng,T5,T5,13290000,2400000,900000,9990000,https://cidef.cl/modelo/t5/
+2026-11-27,DONGFENG-T5-L,Dongfeng,T5 L,T5 L MT 1.5T,14990000,2000000,600000,12390000,https://cidef.cl/modelo/t5-l/
+2026-11-27,DONGFENG-T5-L,Dongfeng,T5 L,T5 L MT 1.8T,15690000,0,900000,14790000,https://cidef.cl/modelo/t5-l/
+2026-11-27,DONGFENG-T5-L,Dongfeng,T5 L,T5 L 1.5 AT,16990000,500000,500000,15990000,https://cidef.cl/modelo/t5-l/
+2026-11-27,DONGFENG-AEOLUS-GS,Dongfeng,Aeolus GS Cross,AEOLUS GS,13990000,1100000,900000,11990000,https://cidef.cl/modelo/aeolus-gs-cross-2/
+2026-11-27,DONGFENG-T5-EVO,Dongfeng,T5 EVO,T5 EVO MT LUXURY,15990000,1500000,600000,13890000,https://cidef.cl/modelo/t5-evo/
+2026-11-27,DONGFENG-T5-EVO,Dongfeng,T5 EVO,T5 EVO LUXURY,19990000,3600000,900000,15490000,https://cidef.cl/modelo/t5-evo/
+2026-11-27,DONGFENG-T5-EVO,Dongfeng,T5 EVO,T5 EVO NOBLE,21690000,4600000,900000,16190000,https://cidef.cl/modelo/t5-evo/
+2026-11-27,LYNKCO-06,Lynk & Co,06,PLUS,20990000,1000000,2000000,17990000,https://www.cartoni.cl/nuevo/lynk-co/06
+2026-11-27,LYNKCO-06,Lynk & Co,06,PRO,22990000,1000000,2000000,19990000,https://www.cartoni.cl/nuevo/lynk-co/06
+2026-11-27,LYNKCO-06,Lynk & Co,06,HALO,25490000,1000000,2000000,22490000,https://www.cartoni.cl/nuevo/lynk-co/06
+2026-11-27,LYNKCO-08,Lynk & Co,08,PRO,40990000,0,3000000,37990000,https://www.cartoni.cl/nuevo/lynk-co/08
+2026-11-27,LYNKCO-08,Lynk & Co,08,HALO,43490000,0,3000000,40490000,https://www.cartoni.cl/nuevo/lynk-co/08
+2026-11-27,DFSK-SUV-500,DFSK,SUV 500,1.5L Comfort,13590000,1500000,2400000,9690000,https://www.dfsk.cl/pasajeros/vehiculo/suv-500/
+2026-11-27,DFSK-SUV-500,DFSK,SUV 500,1.5L Luxury,14090000,800000,2800000,10490000,https://www.dfsk.cl/pasajeros/vehiculo/suv-500/
+2026-11-27,DFSK-SUV-500,DFSK,SUV 500,1.5L Luxury CVT SK,14690000,800000,2500000,11390000,https://www.dfsk.cl/pasajeros/vehiculo/suv-500/
+2026-11-27,DEEPAL-G318-REEV,Deepal,G318,G318 REEV,45990000,1000000,3000000,41990000,https://www.changan.cl/vehiculo/deepal/g318/
+2026-11-27,GAC-EMZOOM,GAC,Emzoom,GS + 1.5 AT 2WD,13490000,0,2000000,11490000,https://www.gacautos.cl/cotizar/?modelo=gac-emzoom
+2026-11-27,GAC-EMZOOM,GAC,Emzoom,GB + 1.5 AT 2WD,14490000,0,2000000,12490000,https://www.gacautos.cl/cotizar/?modelo=gac-emzoom
+2026-11-27,GAC-EMZOOM,GAC,Emzoom,GL 1.5 AT 2WD,15990000,0,1800000,14190000,https://www.gacautos.cl/cotizar/?modelo=gac-emzoom
+2026-11-27,GAC-EMZOOM,GAC,Emzoom,GL R-STYLE 1.5 AT 2WD,17990000,0,1700000,16290000,https://www.gacautos.cl/cotizar/?modelo=gac-emzoom
+2026-11-27,GAC-GS4-MAX,GAC,GS4 MAX,GL 1.5 AT 2WD,17990000,0,2500000,15490000,https://www.gacautos.cl/cotizar/?modelo=gac-gs4
+2026-11-27,EXEED-RX,EXEED,RX,2.0T DCT UNLIMITED,32490000,4500000,2000000,25990000,https://exeedbornformore.cl/modelos/exeed-rx/
+2026-11-27,EXEED-RX,EXEED,RX,2.0T DCT UNLIMITED AWD,34990000,4500000,2000000,28490000,https://exeedbornformore.cl/modelos/exeed-rx/
+2026-11-27,EXEED-VX,EXEED,VX,2.0T AT UNLIMITED AWD,39990000,4500000,2500000,32990000,https://exeedbornformore.cl/modelos/exeed-vx-fl/
+2026-11-27,KAIYI-KYX3,Kaiyi,KYX3,1.5T MT STD,12990000,2000000,1000000,9990000,https://kaiyi.cl/modelos/kyx3
+2026-11-27,KAIYI-KYX3,Kaiyi,KYX3,1.5L MT STYLE,10990000,0,1000000,9990000,https://kaiyi.cl/modelos/kyx3
+2026-11-27,KAIYI-KYX3,Kaiyi,KYX3,1.5T MT LUX,11990000,500000,1000000,10490000,https://kaiyi.cl/modelos/kyx3
+2026-11-27,KAIYI-KYX3,Kaiyi,KYX3,1.5T CVT LUX,12990000,500000,1000000,11490000,https://kaiyi.cl/modelos/kyx3
+2026-11-27,KAIYI-KYX3-PRO,Kaiyi,KYX3 Pro,1.5T CVT,14990000,0,1000000,13990000,https://kaiyi.cl/modelos/kyx3-pro
+2026-11-27,JETOUR-T2,Jetour,T2,2.0T GDI AWD 7DCT LIMITED,30990000,1700000,1300000,27990000,https://jetourchile.cl/w/t2
+2026-11-27,JETOUR-X70-PLUS,Jetour,X70 Plus,1.5T 6DCT FL,19490000,2000000,1000000,16490000,https://jetourchile.cl/w/x70-plus
+2026-11-27,JETOUR-X70-PLUS,Jetour,X70 Plus,1.6L GDI 7DCT LUX FL,20990000,2000000,1000000,17990000,https://jetourchile.cl/w/x70-plus
+2026-11-27,SOUEAST-S09,Soueast,S09,2.0T 7DCT,24990000,1500000,1500000,21990000,https://soueastchile.cl/s09
+2026-11-27,CHERY-TIGGO-7,Chery,Tiggo 7,1.5 CVT LIMITED,15990000,500000,2500000,12990000,https://chery.cl/legales/terminos-y-condiciones/
+2026-11-27,CHERY-TIGGO-8,Chery,Tiggo 8,1.5 MT LIMITED,16990000,500000,2500000,13990000,https://chery.cl/legales/terminos-y-condiciones/
+2026-11-27,CHERY-TIGGO-8,Chery,Tiggo 8,1.5 DCT LIMITED,17990000,500000,2500000,14990000,https://chery.cl/legales/terminos-y-condiciones/
+2026-11-27,MITSUBISHI-DESTINATOR,Mitsubishi,Destinator,GL,23990000,,,20990000,https://mitsubishi-motors.cl/modelos/destinator/
+2026-11-27,MITSUBISHI-DESTINATOR,Mitsubishi,Destinator,GLX,25990000,,,23990000,https://mitsubishi-motors.cl/modelos/destinator/
+2026-11-27,MITSUBISHI-DESTINATOR,Mitsubishi,Destinator,GLS,31490000,,,28990000,https://mitsubishi-motors.cl/modelos/destinator/
+2026-11-27,MITSUBISHI-OUTLANDER-PHEV,Mitsubishi,Outlander PHEV,4X4 AT GLS LIMITED,42990000,,,39990000,https://mitsubishi-motors.cl/modelos/outlander-phev/
+2026-11-27,MITSUBISHI-OUTLANDER-PHEV,Mitsubishi,Outlander PHEV,4X4 AT GLS LIMITED (NUEVO),43990000,,,42990000,https://mitsubishi-motors.cl/modelos/outlander-phev/
+2026-11-27,MITSUBISHI-OUTLANDER-SPORT,Mitsubishi,Outlander Sport,GL,21490000,,,17990000,https://mitsubishi-motors.cl/modelos/outlander-sport/
+2026-11-27,MITSUBISHI-OUTLANDER-SPORT,Mitsubishi,Outlander Sport,GLX,23490000,,,20990000,https://mitsubishi-motors.cl/modelos/outlander-sport/
+2026-11-27,MITSUBISHI-OUTLANDER-SPORT,Mitsubishi,Outlander Sport,GLS,24990000,,,21990000,https://mitsubishi-motors.cl/modelos/outlander-sport/
+2026-11-27,MITSUBISHI-OUTLANDER-SPORT,Mitsubishi,Outlander Sport,GLS (Nuevo),24990000,,,22990000,https://mitsubishi-motors.cl/modelos/outlander-sport/
+2026-11-27,KGM-TORRES,KGM,Torres,GLX 1.5T 2WD 6MT,23990000,2000000,1000000,19990000,https://www.kgmauto.cl/modelos/torres/
+2026-11-27,KGM-TORRES,KGM,Torres,GLX 1.5T 2WD 6AT,26990000,3000000,1000000,22990000,https://www.kgmauto.cl/modelos/torres/
+2026-11-27,KGM-TORRES,KGM,Torres,DLX 1.5T 2WD 6AT,29990000,3000000,1000000,25990000,https://www.kgmauto.cl/modelos/torres/
+2026-11-27,KGM-TORRES-HEV,KGM,Torres HEV,HEV DLX 1.5T 2WD,32990000,2000000,1000000,29990000,https://www.kgmauto.cl/modelos/torres-hibrido/
+2026-11-27,KGM-ACTYON,KGM,Actyon,GLX 1.5T 2WD 6AT,30990000,3500000,1000000,26490000,https://www.kgmauto.cl/modelos/actyon/
+2026-11-27,KGM-ACTYON,KGM,Actyon,LIMITED 1.5T 4WD 6AT,32990000,4000000,1000000,27990000,https://www.kgmauto.cl/modelos/actyon/
+2026-11-27,KGM-ACTYON,KGM,Actyon,DLX 1.5T AWD 6AT,34990000,4000000,1000000,29990000,https://www.kgmauto.cl/modelos/actyon/
+2026-11-27,KGM-ACTYON-HEV,KGM,Actyon HEV,HEV DLX 1.5T 2WD,36990000,4000000,1000000,31990000,https://www.kgmauto.cl/modelos/actyon-hibrido/
+2026-11-27,KGM-TIVOLI,KGM,Tivoli,1.5T GDI 6MT,18990000,2000000,1000000,15990000,https://www.kgmauto.cl/modelos/tivoli/
+2026-11-27,KGM-TIVOLI,KGM,Tivoli,1.5T GDi 6AT,21990000,2000000,1000000,18990000,https://www.kgmauto.cl/modelos/tivoli/
+2026-11-27,SUZUKI-JIMNY,Suzuki,Jimny,1.5 GL 3P,17490000,700000,800000,15990000,https://www.suzuki.cl/vehiculo/jimny/
+2026-11-27,SUZUKI-JIMNY,Suzuki,Jimny,1.5 AT GLX 3P,19490000,700000,800000,17990000,https://www.suzuki.cl/vehiculo/jimny/
+2026-11-27,OMODA-E5,OMODA,E5,E5,30990000,0,5000000,25990000,https://www.omodajaecoo.cl/modelos/omoda-e5/
+2026-11-27,BYD-SEALION-7,BYD,Sealion 7,GL,37990000,1000000,1000000,35990000,https://astararetail.cl/byd-sealion-7/
+2026-11-27,BYD-SEALION-7,BYD,Sealion 7,GS,44990000,1000000,1000000,42990000,https://astararetail.cl/byd-sealion-7/
+2026-11-27,FORD-BRONCO-SPORT,Ford,Bronco Sport,Big Bend,31990000,0,3400000,28590000,https://www.ford.cl/suvs/bronco-sport/
+2026-11-27,FORD-BRONCO-SPORT,Ford,Bronco Sport,Outer Banks,34690000,0,3300000,31390000,https://www.ford.cl/suvs/bronco-sport/
+2026-11-27,FORD-BRONCO-SPORT,Ford,Bronco Sport,Badlands,37790000,0,3300000,34490000,https://www.ford.cl/suvs/bronco-sport/
+2026-11-27,FORD-BRONCO,Ford,Bronco,Badlands,62390000,0,2400000,59990000,https://www.ford.cl/suvs/bronco/
+2026-11-27,FORD-EXPLORER,Ford,Explorer,Active RWD,39490000,0,1500000,37990000,https://www.ford.cl/suvs/explorer/
+2026-11-27,FORD-EXPLORER,Ford,Explorer,Active AWD,47390000,0,4500000,42890000,https://www.ford.cl/suvs/explorer/
+2026-11-27,FORD-EXPLORER,Ford,Explorer,Platinum AWD,51190000,0,1500000,49690000,https://www.ford.cl/suvs/explorer/
+2026-11-27,FORD-EXPLORER,Ford,Explorer,ST,60990000,0,1500000,59490000,https://www.ford.cl/suvs/explorer/
+2026-11-27,FORD-EXPEDITION,Ford,Expedition,Platinum,74690000,0,2000000,72690000,https://www.ford.cl/suvs/expedition/
