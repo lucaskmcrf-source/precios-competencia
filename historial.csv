@@ -2835,3 +2835,127 @@ Fecha,ID modelo,Marca,Modelo,Versión,Precio lista,Bono marca,Bono financiamient
 2026-11-27,FORD-EXPLORER,Ford,Explorer,Platinum AWD,51190000,0,1500000,49690000,https://www.ford.cl/suvs/explorer/
 2026-11-27,FORD-EXPLORER,Ford,Explorer,ST,60990000,0,1500000,59490000,https://www.ford.cl/suvs/explorer/
 2026-11-27,FORD-EXPEDITION,Ford,Expedition,Platinum,74690000,0,2000000,72690000,https://www.ford.cl/suvs/expedition/
+2026-11-27,TOYOTA-FORTUNER,Toyota,Fortuner,SR5 4x4 MT TDI 2.8L,42890000,1500000,3900000,37490000,https://toyota.cl/terminos-y-condiciones-comerciales-por-modelo/
+2026-11-27,TOYOTA-FORTUNER,Toyota,Fortuner,SR5 4x4 TDI 2.8L,44390000,1500000,3900000,38990000,https://toyota.cl/terminos-y-condiciones-comerciales-por-modelo/
+2026-11-27,TOYOTA-FORTUNER,Toyota,Fortuner,SRX 4x4 TDI 2.8L,51090000,1500000,2600000,46990000,https://toyota.cl/terminos-y-condiciones-comerciales-por-modelo/
+2026-11-27,TOYOTA-FORTUNER,Toyota,Fortuner,GRS 2.8 TA 4X4,53090000,600000,2500000,49990000,https://toyota.cl/terminos-y-condiciones-comerciales-por-modelo/
+2026-11-27,TOYOTA-4RUNNER,Toyota,4Runner,SR5 2.4 TA 4X4,53990000,0,1500000,52490000,https://toyota.cl/terminos-y-condiciones-comerciales-por-modelo/
+2026-11-27,TOYOTA-4RUNNER,Toyota,4Runner,LTD 2.4 TA 4X4,59990000,0,1500000,58490000,https://toyota.cl/terminos-y-condiciones-comerciales-por-modelo/
+2026-11-27,TOYOTA-BZ4X,Toyota,bZ4X,BEV 4X2,44990000,0,1500000,43490000,https://toyota.cl/terminos-y-condiciones-comerciales-por-modelo/
+2026-11-27,TOYOTA-BZ4X,Toyota,bZ4X,BEV AWD,49990000,0,1500000,48490000,https://toyota.cl/terminos-y-condiciones-comerciales-por-modelo/
+2026-11-27,TOYOTA-COROLLA-CROSS-HV,Toyota,Corolla Cross Híbrido,1.8 XEI CVT HV,27990000,1000000,1500000,25490000,https://toyota.cl/modelos/suv/corolla-cross-hybrid/
+2026-11-27,TOYOTA-COROLLA-CROSS-HV,Toyota,Corolla Cross Híbrido,1.8 SEG CVT HV,29990000,0,1000000,28990000,https://toyota.cl/modelos/suv/corolla-cross-hybrid/
+2026-11-27,TOYOTA-RAV4-HV,Toyota,RAV4 Híbrido,LE 2.5 4x2 CVT,33490000,0,1500000,31990000,https://toyota.cl/modelos/suv/all-new-rav4-hibrido/
+2026-11-27,TOYOTA-RAV4-HV,Toyota,RAV4 Híbrido,XLE 2.5 4x2 CVT,36990000,900000,2100000,33990000,https://toyota.cl/modelos/suv/all-new-rav4-hibrido/
+2026-11-27,TOYOTA-RAV4-HV,Toyota,RAV4 Híbrido,XSE 2.5 AWD CVT,43990000,0,0,43990000,https://toyota.cl/modelos/suv/all-new-rav4-hibrido/
+2026-11-27,TOYOTA-RAV4-PHEV,Toyota,RAV4 PHEV,XSE 2.5 AWD eCVT,48990000,0,200000,48790000,https://toyota.cl/modelos/suv/all-new-rav4-phev/
+2026-11-27,TOYOTA-RAV4,Toyota,RAV4,LE 2.0 4x2 CVT,28990000,1000000,1500000,26490000,https://toyota.cl/modelos/suv/all-new-rav4/
+2026-11-27,TOYOTA-RAV4,Toyota,RAV4,LE 2.0 AWD CVT,29990000,1000000,1000000,27990000,https://toyota.cl/modelos/suv/all-new-rav4/
+2026-11-27,TOYOTA-RAV4,Toyota,RAV4,XLE 2.0 4x2 CVT,32490000,1000000,1500000,29990000,https://toyota.cl/modelos/suv/all-new-rav4/
+2026-11-27,TOYOTA-LC-PRADO,Toyota,Land Cruiser Prado,WX Adventure,64990000,0,3000000,61990000,https://toyota.cl/modelos/suv/land-crusier-prado/
+2026-11-27,TOYOTA-LC-PRADO,Toyota,Land Cruiser Prado,VX-L 2026,73990000,0,4000000,69990000,https://toyota.cl/modelos/suv/land-crusier-prado/
+2026-11-27,HYUNDAI-VENUE,Hyundai,Venue,1.0T MT GO,16490000,0,2500000,13990000,https://www.hyundai.cl/nuestros-modelos/suv/all-new-venue/
+2026-11-27,HYUNDAI-VENUE,Hyundai,Venue,1.0T MT PLUS,17190000,0,2500000,14690000,https://www.hyundai.cl/nuestros-modelos/suv/all-new-venue/
+2026-11-27,HYUNDAI-VENUE,Hyundai,Venue,1.0T AT PLUS,18990000,0,2100000,16890000,https://www.hyundai.cl/nuestros-modelos/suv/all-new-venue/
+2026-11-27,HYUNDAI-VENUE,Hyundai,Venue,1.0T AT DESIGN,20490000,0,1900000,18590000,https://www.hyundai.cl/nuestros-modelos/suv/all-new-venue/
+2026-11-27,HYUNDAI-CRETA,Hyundai,Creta,1.5 MT GO FL,18290000,0,2300000,15990000,https://www.hyundai.cl/nuestros-modelos/suv/new-creta/
+2026-11-27,HYUNDAI-CRETA,Hyundai,Creta,1.5 MT PLUS FL,19090000,0,2400000,16690000,https://www.hyundai.cl/nuestros-modelos/suv/new-creta/
+2026-11-27,HYUNDAI-CRETA,Hyundai,Creta,1.5 CVT PLUS FL,20590000,0,2400000,18190000,https://www.hyundai.cl/nuestros-modelos/suv/new-creta/
+2026-11-27,HYUNDAI-CRETA,Hyundai,Creta,1.5 CVT DESIGN FL,22790000,0,2100000,20690000,https://www.hyundai.cl/nuestros-modelos/suv/new-creta/
+2026-11-27,HYUNDAI-CRETA-GRAND,Hyundai,Creta Grand,2.0 MT GO FL,21790000,0,1800000,19990000,https://www.hyundai.cl/nuestros-modelos/suv/the-new-creta-grand/
+2026-11-27,HYUNDAI-CRETA-GRAND,Hyundai,Creta Grand,2.0 AT PLUS FL,24290000,0,2300000,21990000,https://www.hyundai.cl/nuestros-modelos/suv/the-new-creta-grand/
+2026-11-27,HYUNDAI-PALISADE-HEV,Hyundai,Palisade Híbrido,2.5T HEV AT AWD LIMITED,59990000,0,2000000,57990000,https://www.hyundai.cl/nuestros-modelos/hibridos/all-new-palisade-hibrido/
+2026-11-27,HYUNDAI-PALISADE-HEV,Hyundai,Palisade Híbrido,2.5T HEV AT AWD CALLIGRAPHY,65990000,0,2000000,63990000,https://www.hyundai.cl/nuestros-modelos/hibridos/all-new-palisade-hibrido/
+2026-11-27,HYUNDAI-PALISADE-HEV,Hyundai,Palisade Híbrido,2.5T HEV AT AWD 7P CALLIGRAPHY,66990000,0,2000000,64990000,https://www.hyundai.cl/nuestros-modelos/hibridos/all-new-palisade-hibrido/
+2026-11-27,HYUNDAI-KONA-HEV,Hyundai,Kona Híbrido,1.6 AT HEV PLUS,27590000,0,3200000,24390000,https://www.hyundai.cl/nuestros-modelos/ecologicos/all-new-kona-hibrido/
+2026-11-27,HYUNDAI-KONA-HEV,Hyundai,Kona Híbrido,1.6 AT HEV DESIGN,30190000,0,2600000,27590000,https://www.hyundai.cl/nuestros-modelos/ecologicos/all-new-kona-hibrido/
+2026-11-27,HYUNDAI-TUCSON-HEV,Hyundai,Tucson Híbrido,1.6T HEV AT PLUS FL,31890000,0,2700000,29190000,https://www.hyundai.cl/nuestros-modelos/ecologicos/the-new-tucson-hibrido/
+2026-11-27,HYUNDAI-TUCSON-HEV,Hyundai,Tucson Híbrido,1.6T HEV AT DESIGN FL,37590000,0,4100000,33490000,https://www.hyundai.cl/nuestros-modelos/ecologicos/the-new-tucson-hibrido/
+2026-11-27,HYUNDAI-TUCSON-HEV,Hyundai,Tucson Híbrido,1.6T HEV AT 4WD LIMITED FL,42390000,0,4400000,37990000,https://www.hyundai.cl/nuestros-modelos/ecologicos/the-new-tucson-hibrido/
+2026-11-27,HYUNDAI-SANTA-FE-HEV,Hyundai,Santa Fe Híbrido,1.6T HEV AT DESIGN,41590000,0,2600000,38990000,https://www.hyundai.cl/nuestros-modelos/ecologicos/all-new-santa-fe-hibrido/
+2026-11-27,HYUNDAI-SANTA-FE-HEV,Hyundai,Santa Fe Híbrido,1.6T HEV AT 4WD PREMIUM,46990000,0,4000000,42990000,https://www.hyundai.cl/nuestros-modelos/ecologicos/all-new-santa-fe-hibrido/
+2026-11-27,HYUNDAI-SANTA-FE-HEV,Hyundai,Santa Fe Híbrido,1.6T HEV AT 4WD LIMITED,50590000,0,2600000,47990000,https://www.hyundai.cl/nuestros-modelos/ecologicos/all-new-santa-fe-hibrido/
+2026-11-27,KIA-SELTOS,Kia,Seltos,LX 1.5L 6MT,20790000,2000000,0,18790000,https://www.kia.cl/promociones/kia-seltos.html
+2026-11-27,KIA-SELTOS,Kia,Seltos,EX 1.5L 6MT PLUS,21790000,2000000,0,19790000,https://www.kia.cl/promociones/kia-seltos.html
+2026-11-27,KIA-SELTOS,Kia,Seltos,LX 1.5L IVT,22790000,2000000,0,20790000,https://www.kia.cl/promociones/kia-seltos.html
+2026-11-27,KIA-SELTOS,Kia,Seltos,EX 1.5L IVT HIGH,24790000,2000000,0,22790000,https://www.kia.cl/promociones/kia-seltos.html
+2026-11-27,KIA-CARENS,Kia,Nueva Carens,LX 1.5L 6MT 7P,20990000,1500000,1500000,17990000,https://www.kia.cl/promociones/kia-nueva-carens.html
+2026-11-27,KIA-CARENS,Kia,Nueva Carens,EX 1.5T 7DCT 7P,23990000,1500000,1500000,20990000,https://www.kia.cl/promociones/kia-nueva-carens.html
+2026-11-27,KIA-CARENS,Kia,Nueva Carens,EX 1.5T 7DCT FULL 7P,25990000,0,1000000,24990000,https://www.kia.cl/promociones/kia-nueva-carens.html
+2026-11-27,KIA-SPORTAGE-HEV,Kia,Sportage Híbrido,LX 1.6T HEV 6AT,33490000,3000000,0,30490000,https://www.kia.cl/promociones/kia-sportage-hibrido.html
+2026-11-27,KIA-SPORTAGE-HEV,Kia,Sportage Híbrido,EX 1.6T HEV 6AT HIGH,36490000,3000000,0,33490000,https://www.kia.cl/promociones/kia-sportage-hibrido.html
+2026-11-27,KIA-SPORTAGE-HEV,Kia,Sportage Híbrido,X-LINE 1.6T HEV 6AT AWD FULL,44490000,2000000,0,42490000,https://www.kia.cl/promociones/kia-sportage-hibrido.html
+2026-11-27,KIA-SORENTO,Kia,Sorento,EX 2.2L DSL 8DCT 2WD,42990000,2000000,0,40990000,https://www.kia.cl/promociones/kia-sorento.html
+2026-11-27,KIA-SORENTO,Kia,Sorento,EX 2.2L DSL 8DCT AWD PLUS,43990000,2000000,0,41990000,https://www.kia.cl/promociones/kia-sorento.html
+2026-11-27,KIA-SORENTO,Kia,Sorento,EX 2.2L DSL 8DCT AWD,47990000,2000000,0,45990000,https://www.kia.cl/promociones/kia-sorento.html
+2026-11-27,KIA-SORENTO,Kia,Sorento,EX 2.2L DSL 8DCT AWD FULL,54990000,2000000,0,52990000,https://www.kia.cl/promociones/kia-sorento.html
+2026-11-27,KIA-SORENTO-HEV,Kia,Sorento Híbrido,EX 1.6T HEV 6AT 2WD,47990000,2000000,0,45990000,https://www.kia.cl/promociones/kia-sorento-hibrido.html
+2026-11-27,KIA-SORENTO-HEV,Kia,Sorento Híbrido,EX 1.6T HEV 6AT AWD HIGH,50990000,2000000,0,48990000,https://www.kia.cl/promociones/kia-sorento-hibrido.html
+2026-11-27,KIA-SORENTO-HEV,Kia,Sorento Híbrido,EX 1.6T HEV 6AT AWD FULL,56990000,2000000,0,54990000,https://www.kia.cl/promociones/kia-sorento-hibrido.html
+2026-11-27,KIA-EV5,Kia,EV5,EV LIGHT 64.2KWH,33990000,2000000,0,31990000,https://www.kia.cl/promociones/kia-ev5.html
+2026-11-27,KIA-EV5,Kia,EV5,EV WAVE 88.1KWH AWD,43990000,2000000,0,41990000,https://www.kia.cl/promociones/kia-ev5.html
+2026-11-27,KIA-EV6,Kia,EV6,EV GT-LINE 84.0KWH AWD,49990000,0,0,49990000,https://www.kia.cl/promociones/kia-ev6.html
+2026-11-27,KIA-EV9,Kia,EV9,GT-LINE 99.8KWH AWD 6P1,99990000,0,0,99990000,https://www.kia.cl/promociones/kia-ev9.html
+2026-11-27,KIA-EV9,Kia,EV9,GT-LINE 99.8KWH AWD 6P2,99990000,0,0,99990000,https://www.kia.cl/promociones/kia-ev9.html
+2026-11-27,KIA-EV9,Kia,EV9,GT-LINE 99.8KWH AWD 7P,99990000,0,0,99990000,https://www.kia.cl/promociones/kia-ev9.html
+2026-11-27,MAZDA-CX-3,Mazda,CX-3,CORE 2.0 MT,19790000,100000,700000,18990000,https://www.mazda.cl/vehiculo/mazda-cx-3/
+2026-11-27,MAZDA-CX-3,Mazda,CX-3,CORE 2.0 6AT,20590000,600000,700000,19290000,https://www.mazda.cl/vehiculo/mazda-cx-3/
+2026-11-27,MAZDA-CX-60,Mazda,CX-60,PRIME 2.5 GASOLINA,40990000,0,1000000,39990000,https://www.mazda.cl/vehiculo/mazda-cx-60/
+2026-11-27,MAZDA-CX-60,Mazda,CX-60,PREMIUM SPORT 3.3 MILD HYBRID,48990000,0,1000000,47990000,https://www.mazda.cl/vehiculo/mazda-cx-60/
+2026-11-27,MAZDA-CX-60,Mazda,CX-60,SIGNATURE 2.5 HÍBRIDO ENCHUFABLE,52990000,1000000,1000000,50990000,https://www.mazda.cl/vehiculo/mazda-cx-60/
+2026-11-27,MAZDA-CX-90,Mazda,CX-90,PREMIUM 3.3 MILD HYBRID,56490000,2500000,1000000,52990000,https://www.mazda.cl/vehiculo/mazda-cx-90/
+2026-11-27,MAZDA-CX-90,Mazda,CX-90,SIGNATURE 3.3 MILD HYBRID,60490000,2000000,1000000,57490000,https://www.mazda.cl/vehiculo/mazda-cx-90/
+2026-11-27,SUBARU-FORESTER,Subaru,Forester,2.5 AWD CVT XS ES,32490000,3500000,2000000,26990000,https://www.subaru.cl/vehiculos/all-new-forester/
+2026-11-27,SUBARU-FORESTER,Subaru,Forester,2.5 AWD CVT DYNAMIC ES,36590000,3600000,2000000,30990000,https://www.subaru.cl/vehiculos/all-new-forester/
+2026-11-27,SUBARU-FORESTER,Subaru,Forester,2.5 AWD CVT TOURING ES,39990000,3000000,2000000,34990000,https://www.subaru.cl/vehiculos/all-new-forester/
+2026-11-27,SUBARU-FORESTER-HEV,Subaru,Forester Híbrido,2.5 HEV AWD CVT SPORT ES,43990000,2400000,1600000,39990000,https://www.subaru.cl/vehiculos/all-new-forester-hibrido/
+2026-11-27,SUBARU-FORESTER-HEV,Subaru,Forester Híbrido,2.5 HEV AWD CVT TOURING ES,45990000,2400000,1600000,41990000,https://www.subaru.cl/vehiculos/all-new-forester-hibrido/
+2026-11-27,SUBARU-OUTBACK,Subaru,Outback,Premium,38990000,2000000,1000000,35990000,https://www.subaru.cl/vehiculos/all-new-outback/
+2026-11-27,SUBARU-OUTBACK,Subaru,Outback,Touring,42990000,1000000,500000,41490000,https://www.subaru.cl/vehiculos/all-new-outback/
+2026-11-27,SUBARU-EVOLTIS,Subaru,Evoltis,EVOLTIS LIMITED GARDX,49990000,2000000,2000000,45990000,https://www.subaru.cl/vehiculos/subaru-evoltis/
+2026-11-27,SUBARU-EVOLTIS,Subaru,Evoltis,EVOLTIS TOURING GARDX,52990000,2500000,2500000,47990000,https://www.subaru.cl/vehiculos/subaru-evoltis/
+2026-11-27,SUBARU-CROSSTREK-HEV,Subaru,Crosstrek Híbrido,2.0I HYBRID AWD CVT TOURING ES,35190000,1400000,1100000,32690000,https://www.subaru.cl/vehiculos/all-new-crosstrek-hibrido/
+2026-11-27,VW-T-CROSS,Volkswagen,T-Cross,1.0 TSI AT Comfortline,21490000,2600000,1400000,17490000,https://www.volkswagen.cl/t-cross/t-cross
+2026-11-27,VW-T-CROSS,Volkswagen,T-Cross,1.0 TSI AT Highline,22490000,2150000,1350000,18990000,https://www.volkswagen.cl/t-cross/t-cross
+2026-11-27,VW-T-CROSS,Volkswagen,T-Cross,1.0 TSI AT Highline Sport S,23990000,1450000,1550000,20990000,https://www.volkswagen.cl/t-cross/t-cross
+2026-11-27,VW-TAOS,Volkswagen,Taos,1.5 TSI AT Comfortline,30590000,1100000,2000000,27490000,https://www.volkswagen.cl/taos/nuevo-taos
+2026-11-27,VW-TIGUAN,Volkswagen,Tiguan,1.4 TSI AT Comfort (EU6b),36490000,1000000,1000000,34490000,https://www.volkswagen.cl/tiguan/tiguan-1
+2026-11-27,VW-TIGUAN,Volkswagen,Tiguan,1.4 TSI AT R-Line (EU6b),39490000,1000000,1000000,37490000,https://www.volkswagen.cl/tiguan/tiguan-1
+2026-11-27,VW-ATLAS,Volkswagen,Atlas,2.0 TSI AT Comfortline 4Motion,51990000,4800000,2200000,44990000,https://www.volkswagen.cl/atlas/Atlas
+2026-11-27,VW-ATLAS,Volkswagen,Atlas,2.0 TSI AT Limited 4Motion,55390000,5000000,1500000,48890000,https://www.volkswagen.cl/atlas/Atlas
+2026-11-27,VW-ID4,Volkswagen,ID.4,Pro 82kWh,49900000,2900000,4010000,42990000,https://www.volkswagen.cl/id4/id4
+2026-11-27,HONDA-CR-V,Honda,CR-V,TOURING 1.5 TURBO AUT. 4X4,42990000,1000000,2000000,39990000,https://autos.honda.cl/suv/cr-v/
+2026-11-27,HONDA-CR-V-HEV,Honda,CR-V Híbrido,ADVANCED HYBRID,49990000,1000000,2000000,46990000,https://autos.honda.cl/suv/cr-v-hibrido/
+2026-11-27,HONDA-PILOT,Honda,Pilot,TOURING 3.5 AUT. 4X4 (2027),59990000,1000000,1000000,57990000,https://autos.honda.cl/suv/pilot/
+2026-11-27,HONDA-PILOT,Honda,Pilot,ELITE 3.5 AUT. 4X4 (2027),61990000,1000000,1000000,59990000,https://autos.honda.cl/suv/pilot/
+2026-11-27,HONDA-HR-V,Honda,HR-V,Touring,26990000,0,2000000,24990000,https://autos.honda.cl/suv/hr-v/
+2026-11-27,HONDA-ZR-V-HEV,Honda,ZR-V Híbrido,ADVANCE HYBRID,35990000,1000000,1000000,33990000,https://autos.honda.cl/suv/zr-v-hibrido/
+2026-11-27,CHEVROLET-CAPTIVA,Chevrolet,Captiva,1.5T LTZ CVT E6C T,21390000,0,1900000,19490000,https://www.coseche.com/marcas/chevrolet/nuevo/chevrolet-new-captiva
+2026-11-27,CHEVROLET-CAPTIVA,Chevrolet,Captiva,1.5T PREMIER CVT E6C T,23390000,0,3400000,19990000,https://www.coseche.com/marcas/chevrolet/nuevo/chevrolet-new-captiva
+2026-11-27,CHEVROLET-TRAVERSE,Chevrolet,Traverse,2.5T LT MIDNIGHT AWD T,51990000,0,2000000,49990000,https://www.coseche.com/marcas/chevrolet/nuevo/chevrolet-traverse
+2026-11-27,CHEVROLET-TRAVERSE,Chevrolet,Traverse,2.5T Z71 AWD T,55990000,0,2000000,53990000,https://www.coseche.com/marcas/chevrolet/nuevo/chevrolet-traverse
+2026-11-27,CHEVROLET-TAHOE,Chevrolet,Tahoe,5.3L Z71 AT 4WD T,77690000,0,2700000,74990000,https://www.coseche.com/marcas/chevrolet/nuevo/chevrolet-tahoe
+2026-11-27,CHEVROLET-SUBURBAN,Chevrolet,Suburban,5.3L Z71 AT 4WD T,81690000,0,2700000,78990000,https://www.coseche.com/marcas/chevrolet/nuevo/chevrolet-suburban
+2026-11-27,CHEVROLET-EQUINOX-EV,Chevrolet,Equinox EV,EV eAWD LTZ S,42190000,0,2200000,39990000,https://www.coseche.com/marcas/chevrolet/nuevo/chevrolet-equinox
+2026-11-27,PEUGEOT-3008,Peugeot,3008,Premiere Gasolina 180hp AT,30790000,5000000,0,25790000,https://cotizador.peugeot.cl/modelos/3008/cotiza.html
+2026-11-27,PEUGEOT-3008,Peugeot,3008,Allure Hybrid 136hp AT,30790000,5000000,0,25790000,https://cotizador.peugeot.cl/modelos/3008/cotiza.html
+2026-11-27,PEUGEOT-3008,Peugeot,3008,Premiere Hybrid 136hp AT,31790000,5000000,0,26790000,https://cotizador.peugeot.cl/modelos/3008/cotiza.html
+2026-11-27,PEUGEOT-3008,Peugeot,3008,GT Gasolina 180hp AT,36290000,5500000,0,30790000,https://cotizador.peugeot.cl/modelos/3008/cotiza.html
+2026-11-27,PEUGEOT-3008,Peugeot,3008,GT Hybrid 136hp AT,37290000,6500000,0,30790000,https://cotizador.peugeot.cl/modelos/3008/cotiza.html
+2026-11-27,PEUGEOT-5008,Peugeot,5008,Allure Hybrid 136hp AT,33290000,6000000,0,27290000,https://cotizador.peugeot.cl/modelos/5008/cotiza.html
+2026-11-27,PEUGEOT-5008,Peugeot,5008,GT Hybrid 136hp AT,39790000,7000000,0,32790000,https://cotizador.peugeot.cl/modelos/5008/cotiza.html
+2026-11-27,JEEP-COMPASS,Jeep,Compass,SPORT 1.3T AT6 FWD,25990000,3000000,0,22990000,https://www.jeepcotizador.com/modelos/compass/cotiza.html
+2026-11-27,JEEP-COMPASS,Jeep,Compass,LONGITUDE 1.3T AT6 FWD,27990000,3000000,0,24990000,https://www.jeepcotizador.com/modelos/compass/cotiza.html
+2026-11-27,JEEP-COMPASS,Jeep,Compass,LIMITED 1.3T AT6 FWD,30990000,3000000,0,27990000,https://www.jeepcotizador.com/modelos/compass/cotiza.html
+2026-11-27,JEEP-COMPASS,Jeep,Compass,BLACKHAWK 2.0T AT9 4X4,38490000,2500000,0,35990000,https://www.jeepcotizador.com/modelos/compass/cotiza.html
+2026-11-27,JEEP-RENEGADE,Jeep,Renegade,Altitude 1.3T AT6 FWD,25390000,2000000,0,23390000,https://www.jeepcotizador.com/modelos/renegade/cotiza.html
+2026-11-27,JEEP-RENEGADE,Jeep,Renegade,Sahara 1.3T AT6 FWD,27390000,2000000,0,25390000,https://www.jeepcotizador.com/modelos/renegade/cotiza.html
+2026-11-27,JEEP-COMMANDER,Jeep,Commander,Limited Gasolina 175CV AT,36290000,3500000,0,32790000,https://www.jeepcotizador.com/modelos/commander/cotiza.html
+2026-11-27,JEEP-COMMANDER,Jeep,Commander,Overland Gasolina 175CV AT,38290000,3500000,0,34790000,https://www.jeepcotizador.com/modelos/commander/cotiza.html
+2026-11-27,JEEP-COMMANDER,Jeep,Commander,Blackhawk Gasolina 272CV AT,43290000,3500000,0,39790000,https://www.jeepcotizador.com/modelos/commander/cotiza.html
+2026-11-27,JEEP-GRAND-CHEROKEE,Jeep,Grand Cherokee,MCA Altitude 2.0T AT8 4x4,56990000,3000000,0,53990000,https://www.jeepcotizador.com/modelos/grand-cherokee/cotiza.html
+2026-11-27,JEEP-GRAND-CHEROKEE,Jeep,Grand Cherokee,MCA Limited 2.0T AT8 4X4,59990000,3000000,0,56990000,https://www.jeepcotizador.com/modelos/grand-cherokee/cotiza.html
+2026-11-27,JEEP-GRAND-CHEROKEE,Jeep,Grand Cherokee,L MCA Limited 2.0T AT8 4X4,62990000,3000000,0,59990000,https://www.jeepcotizador.com/modelos/grand-cherokee/cotiza.html
+2026-11-27,JEEP-WRANGLER,Jeep,Wrangler,Sport 2.0T AT8 4x4,57990000,5200000,0,52790000,https://www.jeepcotizador.com/modelos/wrangler/cotiza.html
+2026-11-27,JEEP-WRANGLER,Jeep,Wrangler,Sahara 2.0T AT8 4x4,61990000,5200000,0,56790000,https://www.jeepcotizador.com/modelos/wrangler/cotiza.html
+2026-11-27,JEEP-WRANGLER,Jeep,Wrangler,Rubicon 2.0T AT8 4x4,65990000,5200000,0,60790000,https://www.jeepcotizador.com/modelos/wrangler/cotiza.html
