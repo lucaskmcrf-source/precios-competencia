@@ -140,3 +140,12 @@ PASOS
 5. Commit con mensaje "Precios AAAA-MM-DD" y push a main. Si el push es rechazado porque el remoto tiene commits nuevos, haz git pull --rebase (si hay conflicto en historial.csv, vuelve a aplicar tus filas de hoy sobre la versión remota) y vuelve a hacer push. Si el push falla igual, dilo al inicio del resumen con el error exacto.
 
 RESUMEN FINAL en español, corto: primero cualquier alerta ⚠️. Luego, por modelo, si hubo cambios en el precio final frente a la revisión anterior, lista cada versión que cambió (antes → después, formato $14.990.000) y versiones nuevas o retiradas. Si no hubo cambios ni alertas, di solo "Sin cambios en precios". Indica en una línea si GitHub se actualizó bien (con el hash del commit) y qué modelos no se pudieron leer.
+
+## MODELOS "SOLO TENDENCIA" (agregados el 27-11-2026, pedido de Lucas)
+Se agregaron ~100 SUV de todas las marcas que seguimos para el gráfico de tendencia por marca. NO están en la hoja Segmentos del Excel (así no aparecen en las páginas de precios ni en la tabla de cambios). Regla: si un ID está en Segmentos es competidor; si no, es solo tendencia.
+Los de las 7 marcas que lee Chrome se leen igual que los demás de su marca:
+- Jetour T2 y X70 Plus (jetourchile.cl/w/t2, /w/x70-plus): mismo formato .swiper-slide.
+- Soueast S09 (soueastchile.cl/s09): una sola columna "Precios Precio lista … Precio final"; versión "2.0T 7DCT".
+- Kaiyi KYX3 y KYX3 Pro (kaiyi.cl/modelos/kyx3, /kyx3-pro): bloques "Precio lista $L [Bono marca − $X] Bono financiamiento − $Y Precio final $F" en el orden de las versiones; el nombre de cada versión aparece como "TRANSMISIÓN MECÁNICA|AUTOMÁTICA <versión> Motor" (algunas versiones no traen bono marca = 0).
+- Ford Bronco Sport, Bronco, Explorer, Expedition (ford.cl/suvs/<modelo>/): texto (TreeWalker) "<versión> Desde: $L 1 Financiamiento Desde: $F" (la versión es el nombre de la tarjeta: Big Bend, Outer Banks, Badlands, Active RWD, Active AWD, Platinum AWD, ST, Platinum). Bono marca 0, bono fin = L − F.
+- Peugeot 3008 y 5008, Jeep Compass, Renegade, Commander, Grand Cherokee, Wrangler (cotizadores Stellantis): igual que 2008/Avenger: lista "Otras versiones" (ul dentro del label), clic en cada li y leer "PRECIO PROMOCIONAL $F PRECIO DE LISTA $L BONO $B".
